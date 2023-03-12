@@ -4362,3 +4362,1075 @@ Script Stack (0 frames) :
 [2023.03.12-13.00.55:264][529]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Target.BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_A036BCBF3524AB6E01_2104914417
 [2023.03.12-13.00.55:264][529]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Target.BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_A036BCBF3524A76E01_1609719711
 [2023.03.12-13.00.55:264][529]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Target.BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_A036BCBF3524AB6E01_2128542418
+[2023.03.12-13.04.11:841][299]LogDerivedDataCache: C:/Users/Sonia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.056 and deleted 0 files with total size 0 MiB. Scanned 5578 files in 5490 folders with total size 185 MiB.
+[2023.03.12-13.04.20:180][324]BlueprintLog: New page: Compile GM_TargetGame
+[2023.03.12-13.04.20:233][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.03.12-13.04.59:044][928]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.12-13.04.59:044][928]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.12-13.04.59:044][928]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.12-13.06.04:083][667]BlueprintLog: New page: Compile GM_TargetGame
+[2023.03.12-13.06.04:137][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.03.12-13.06.26:146][629]BlueprintLog: New page: Compile WBP_UI
+[2023.03.12-13.06.26:199][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.03.12-13.06.41:997][478]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.06.42:025][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_UI" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WBP_UI.uasset" SILENT=true
+[2023.03.12-13.06.42:029][478]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_UI
+[2023.03.12-13.06.42:030][478]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/WBP_UI94BB15A047FC109F69B5C1886FEB291D.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WBP_UI.uasset'
+[2023.03.12-13.06.42:034][478]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 2.25 sec)
+[2023.03.12-13.06.42:040][478]AssetCheck: New page: Asset Save: WBP_UI
+[2023.03.12-13.06.42:040][478]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_UI.WBP_UI
+[2023.03.12-13.06.42:211][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.06.42:232][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_UI" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WBP_UI.uasset" SILENT=true
+[2023.03.12-13.06.42:236][499]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_UI
+[2023.03.12-13.06.42:237][499]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/WBP_UIFF57B8AA46BF4728BE2734B160E2C4D7.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WBP_UI.uasset'
+[2023.03.12-13.06.42:241][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 2.28 sec)
+[2023.03.12-13.06.42:247][499]AssetCheck: New page: Asset Save: WBP_UI
+[2023.03.12-13.06.42:247][499]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_UI.WBP_UI
+[2023.03.12-13.06.45:985][831]BlueprintLog: New page: Compile WBP_UI
+[2023.03.12-13.06.46:036][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.03.12-13.06.47:152][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.06.47:173][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_UI" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WBP_UI.uasset" SILENT=true
+[2023.03.12-13.06.47:177][961]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_UI
+[2023.03.12-13.06.47:178][961]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/WBP_UIEC4644214B99BEC70BB7B7B2FBB4E203.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WBP_UI.uasset'
+[2023.03.12-13.06.47:181][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 2.31 sec)
+[2023.03.12-13.06.47:187][961]AssetCheck: New page: Asset Save: WBP_UI
+[2023.03.12-13.06.47:188][961]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_UI.WBP_UI
+[2023.03.12-13.06.47:351][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.06.47:372][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_UI" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WBP_UI.uasset" SILENT=true
+[2023.03.12-13.06.47:376][981]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_UI
+[2023.03.12-13.06.47:376][981]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/WBP_UIA162AD9540D04F8BB2555A95F31311D7.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WBP_UI.uasset'
+[2023.03.12-13.06.47:380][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 28 ms (total: 2.34 sec)
+[2023.03.12-13.06.47:386][981]AssetCheck: New page: Asset Save: WBP_UI
+[2023.03.12-13.06.47:386][981]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_UI.WBP_UI
+[2023.03.12-13.06.49:466][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.06.49:487][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.06.49:491][229]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.06.49:491][229]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGame88C35C1444CDDED7A81823BA50B8E4AB.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.06.49:495][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 2.37 sec)
+[2023.03.12-13.06.49:502][229]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.06.49:502][229]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.06.52:155][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.03.12-13.06.53:211][535]LogSlate: Window 'Save Content' being destroyed
+[2023.03.12-13.06.53:216][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.06.53:233][535]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/YE/UQB7JJV4BW4MQG4VL2FBAI
+[2023.03.12-13.06.53:234][535]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/UQB7JJV4BW4MQG4VL2FBAI70C23678430A9E4677DFC5A8DE269AB2.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/YE/UQB7JJV4BW4MQG4VL2FBAI.uasset'
+[2023.03.12-13.06.53:236][535]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/9R/JENMHBSC0UCYI46P9Q7LY0
+[2023.03.12-13.06.53:236][535]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/JENMHBSC0UCYI46P9Q7LY0D43C0923490AF078A2A426AA38525F2D.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/9R/JENMHBSC0UCYI46P9Q7LY0.uasset'
+[2023.03.12-13.06.53:237][535]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/0A/XEHE0SXY102X2V6OF5F7UF
+[2023.03.12-13.06.53:238][535]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/XEHE0SXY102X2V6OF5F7UFEE1772C34D0B4062B57F439611B00BB6.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/0A/XEHE0SXY102X2V6OF5F7UF.uasset'
+[2023.03.12-13.06.53:243][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 26 ms (total: 2.40 sec)
+[2023.03.12-13.06.53:250][535]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.12-13.06.53:250][535]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Target.BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_A036BCBF3524AB6E01_2104914417
+[2023.03.12-13.06.53:250][535]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Target.BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_A036BCBF3524A76E01_1609719711
+[2023.03.12-13.06.53:250][535]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Target.BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_A036BCBF3524AB6E01_2128542418
+[2023.03.12-13.06.56:572][934]LogEditorTransaction: Undo Move Node
+[2023.03.12-13.07.31:399][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.07.31:420][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.07.31:424][ 72]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.07.31:425][ 72]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGame2FD33169413F23C62DFE0C80E16EC933.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.07.31:429][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 2.43 sec)
+[2023.03.12-13.07.31:435][ 72]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.07.31:435][ 72]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.07.31:706][105]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.07.31:728][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.07.31:733][105]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.07.31:733][105]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGameB013DF594879AD02F0A5368FD3E32F31.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.07.31:737][105]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 2.46 sec)
+[2023.03.12-13.07.31:743][105]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.07.31:743][105]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.07.34:105][389]BlueprintLog: New page: Compile GM_TargetGame
+[2023.03.12-13.07.34:161][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.03.12-13.07.35:514][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.03.12-13.07.36:434][539]LogSlate: Window 'Save Content' being destroyed
+[2023.03.12-13.07.36:438][539]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.07.36:465][539]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/YE/UQB7JJV4BW4MQG4VL2FBAI
+[2023.03.12-13.07.36:466][539]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/UQB7JJV4BW4MQG4VL2FBAI4B4268C445A012C87DFF07952EAE0BFB.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/YE/UQB7JJV4BW4MQG4VL2FBAI.uasset'
+[2023.03.12-13.07.36:467][539]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/9R/JENMHBSC0UCYI46P9Q7LY0
+[2023.03.12-13.07.36:468][539]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/JENMHBSC0UCYI46P9Q7LY0054F46DA41B0F01EA9029D8BC7E5A30D.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/9R/JENMHBSC0UCYI46P9Q7LY0.uasset'
+[2023.03.12-13.07.36:469][539]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/0A/XEHE0SXY102X2V6OF5F7UF
+[2023.03.12-13.07.36:469][539]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/XEHE0SXY102X2V6OF5F7UFDA6BCF8E48A11038DAF1C6AFC64AAE7C.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/0A/XEHE0SXY102X2V6OF5F7UF.uasset'
+[2023.03.12-13.07.36:475][539]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 2.49 sec)
+[2023.03.12-13.07.36:482][539]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.12-13.07.36:482][539]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Target.BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_A036BCBF3524AB6E01_2104914417
+[2023.03.12-13.07.36:482][539]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Target.BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_A036BCBF3524A76E01_1609719711
+[2023.03.12-13.07.36:482][539]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Target.BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_A036BCBF3524AB6E01_2128542418
+[2023.03.12-13.07.39:146][843]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.12-13.07.39:150][843]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.03.12-13.07.39:151][843]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.12-13.07.39:151][843]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.12-13.07.39:151][843]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 154 us)
+[2023.03.12-13.07.39:151][843]LogWorldPartition: Display: GenerateStreaming took 199 us (total: 11 ms)
+[2023.03.12-13.07.39:151][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.12-13.07.39:151][843]PIE: New page: PIE session: FirstPersonMap (12 Mar 2023, 15:07:39)
+[2023.03.12-13.07.39:200][843]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.12-13.07.39:203][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003327s)
+[2023.03.12-13.07.39:203][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003355s)
+[2023.03.12-13.07.39:203][843]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.12-13.07.39:203][843]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.03.12-13.07.39:204][843]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.12-13.07.39:204][843]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.12-13.07.39:204][843]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.12-13.07.39:204][843]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.03.12-13.07.39:204][843]LogWorldPartition: Display: WorldPartition initialize took 771 us (total: 278 ms)
+[2023.03.12-13.07.39:204][843]LogPlayLevel: PIE: World Init took: (0.001467s)
+[2023.03.12-13.07.39:240][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.03.12-13.07.39:242][843]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.03.12-13.07.39:242][843]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.12-13.07.39:242][843]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.12-13.07.39:242][843]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.12-13.07.39:242][843]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.12-13.07.39:242][843]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.12-13.07.39:242][843]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.12-13.07.39:242][843]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.12-13.07.39:242][843]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.12-13.07.39:242][843]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.12-13.07.39:242][843]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.12-13.07.39:242][843]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.12-13.07.39:244][843]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.12-13.07.39:255][843]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Crusher ANC Stereo)
+[2023.03.12-13.07.39:255][843]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.12-13.07.39:255][843]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.12-13.07.39:255][843]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.12-13.07.39:256][843]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2023.03.12-13.07.39:256][843]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2023.03.12-13.07.39:257][843]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2023.03.12-13.07.39:257][843]LogInit: FAudioDevice initialized.
+[2023.03.12-13.07.39:257][843]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2023.03.12-13.07.39:257][843]LogAudio: Display: Audio Device (ID: 26) registered with world 'FirstPersonMap'.
+[2023.03.12-13.07.39:259][843]LogLoad: Game class is 'GM_TargetGame_C'
+[2023.03.12-13.07.39:260][843]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.03.12-14.07.39
+[2023.03.12-13.07.39:260][843]LogWorld: Bringing up level for play took: 0.001397
+[2023.03.12-13.07.39:261][843]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.03.12-13.07.39:263][843]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1420.000 Y=650.000 Z=98.338
+[2023.03.12-13.07.39:264][843]PIE: Server logged in
+[2023.03.12-13.07.39:264][843]PIE: Play in editor total start time 0,115 seconds.
+[2023.03.12-13.07.45:060][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.12-13.07.45:060][527]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.12-13.07.45:060][527]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.12-13.07.45:060][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.12-13.07.45:060][527]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.03.12-13.07.45:064][527]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.12-13.07.45:068][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.12-13.07.45:104][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.12-13.07.45:104][527]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.03.12-13.07.45:105][527]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.03.12-13.07.45:110][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.03.12-13.07.45:142][529]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.03.12-13.07.55:157][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.07.55:224][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Target" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/BP_Target.uasset" SILENT=true
+[2023.03.12-13.07.55:227][455]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Target
+[2023.03.12-13.07.55:228][455]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/BP_Target7EBBF4B34217B0C2F81C71830C533024.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/BP_Target.uasset'
+[2023.03.12-13.07.55:232][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 2.57 sec)
+[2023.03.12-13.07.55:238][455]AssetCheck: New page: Asset Save: BP_Target
+[2023.03.12-13.07.55:238][455]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Target.BP_Target
+[2023.03.12-13.08.01:743][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.08.01:798][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Target" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/BP_Target.uasset" SILENT=true
+[2023.03.12-13.08.01:801][229]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Target
+[2023.03.12-13.08.01:802][229]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/BP_Target896414094D7CB2B5D59BA1963B11AB80.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/BP_Target.uasset'
+[2023.03.12-13.08.01:807][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 2.63 sec)
+[2023.03.12-13.08.01:813][229]AssetCheck: New page: Asset Save: BP_Target
+[2023.03.12-13.08.01:813][229]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Target.BP_Target
+[2023.03.12-13.08.06:230][750]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.08.06:244][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Target" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/BP_Target.uasset" SILENT=true
+[2023.03.12-13.08.06:248][750]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Target
+[2023.03.12-13.08.06:248][750]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/BP_Target45857382441ED1208E40E7ACBFBC28B5.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/BP_Target.uasset'
+[2023.03.12-13.08.06:252][750]LogFileHelpers: InternalPromptForCheckoutAndSave took 21 ms (total: 2.65 sec)
+[2023.03.12-13.08.06:258][750]AssetCheck: New page: Asset Save: BP_Target
+[2023.03.12-13.08.06:258][750]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Target.BP_Target
+[2023.03.12-13.08.06:454][774]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.08.06:475][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Target" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/BP_Target.uasset" SILENT=true
+[2023.03.12-13.08.06:478][774]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Target
+[2023.03.12-13.08.06:478][774]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/BP_TargetA86B5DCA4791586FC5ADF381044A2C3F.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/BP_Target.uasset'
+[2023.03.12-13.08.06:482][774]LogFileHelpers: InternalPromptForCheckoutAndSave took 27 ms (total: 2.68 sec)
+[2023.03.12-13.08.06:488][774]AssetCheck: New page: Asset Save: BP_Target
+[2023.03.12-13.08.06:488][774]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Target.BP_Target
+[2023.03.12-13.08.10:254][ 24]BlueprintLog: New page: Compile BP_Target
+[2023.03.12-13.08.10:311][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.03.12-13.08.11:577][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.03.12-13.08.12:511][161]LogSlate: Window 'Save Content' being destroyed
+[2023.03.12-13.08.12:516][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.08.12:530][161]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/YE/UQB7JJV4BW4MQG4VL2FBAI
+[2023.03.12-13.08.12:531][161]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/UQB7JJV4BW4MQG4VL2FBAI88F8B53147B9EFC8C51552B782055C1B.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/YE/UQB7JJV4BW4MQG4VL2FBAI.uasset'
+[2023.03.12-13.08.12:533][161]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/9R/JENMHBSC0UCYI46P9Q7LY0
+[2023.03.12-13.08.12:533][161]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/JENMHBSC0UCYI46P9Q7LY0C5BE51814DE3851CBE31E6BA374A3E3A.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/9R/JENMHBSC0UCYI46P9Q7LY0.uasset'
+[2023.03.12-13.08.12:534][161]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/0A/XEHE0SXY102X2V6OF5F7UF
+[2023.03.12-13.08.12:535][161]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/XEHE0SXY102X2V6OF5F7UF6796E85546B7DB5F0D27A5B70FD6D199.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/0A/XEHE0SXY102X2V6OF5F7UF.uasset'
+[2023.03.12-13.08.12:540][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 23 ms (total: 2.71 sec)
+[2023.03.12-13.08.12:547][161]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.12-13.08.12:547][161]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Target.BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_A036BCBF3524AB6E01_2104914417
+[2023.03.12-13.08.12:547][161]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Target.BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_A036BCBF3524AB6E01_2128542418
+[2023.03.12-13.08.12:547][161]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Target.BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_A036BCBF3524A76E01_1609719711
+[2023.03.12-13.09.24:441][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.09.24:462][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.09.24:467][101]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.09.24:467][101]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGame65510F3444AA77EE8D8465BA24A452B0.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.09.24:471][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 2.74 sec)
+[2023.03.12-13.09.24:479][101]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.09.24:479][101]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.09.24:667][124]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.09.24:686][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.09.24:691][124]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.09.24:691][124]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGame903BB7E6449BF34D33046493F014C78F.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.09.24:695][124]LogFileHelpers: InternalPromptForCheckoutAndSave took 27 ms (total: 2.76 sec)
+[2023.03.12-13.09.24:701][124]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.09.24:701][124]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.09.37:896][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.09.37:918][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.09.37:922][126]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.09.37:923][126]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGameD5853CEE49ACE278FA8231B3FC762AF3.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.09.37:927][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 2.79 sec)
+[2023.03.12-13.09.37:933][126]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.09.37:933][126]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.09.41:006][487]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.09.41:032][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.09.41:037][487]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.09.41:037][487]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGame3D9EAB764BC97431DDC09AB58FF89499.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.09.41:042][487]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 2.83 sec)
+[2023.03.12-13.09.41:048][487]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.09.41:048][487]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.09.44:415][629]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.12-13.09.46:080][824]BlueprintLog: New page: Compile GM_TargetGame
+[2023.03.12-13.09.46:134][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.03.12-13.09.48:050][ 17]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.12-13.09.48:054][ 17]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.03.12-13.09.48:056][ 17]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.12-13.09.48:056][ 17]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.12-13.09.48:056][ 17]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 161 us)
+[2023.03.12-13.09.48:056][ 17]LogWorldPartition: Display: GenerateStreaming took 261 us (total: 11 ms)
+[2023.03.12-13.09.48:056][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.12-13.09.48:056][ 17]PIE: New page: PIE session: FirstPersonMap (12 Mar 2023, 15:09:48)
+[2023.03.12-13.09.48:091][ 17]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.12-13.09.48:094][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003300s)
+[2023.03.12-13.09.48:094][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003322s)
+[2023.03.12-13.09.48:094][ 17]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.12-13.09.48:094][ 17]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.03.12-13.09.48:095][ 17]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.12-13.09.48:095][ 17]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.12-13.09.48:095][ 17]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.12-13.09.48:095][ 17]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.03.12-13.09.48:095][ 17]LogWorldPartition: Display: WorldPartition initialize took 779 us (total: 278 ms)
+[2023.03.12-13.09.48:095][ 17]LogPlayLevel: PIE: World Init took: (0.001470s)
+[2023.03.12-13.09.48:131][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.03.12-13.09.48:134][ 17]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.03.12-13.09.48:134][ 17]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.12-13.09.48:134][ 17]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.12-13.09.48:134][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.12-13.09.48:134][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.12-13.09.48:134][ 17]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.12-13.09.48:134][ 17]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.12-13.09.48:134][ 17]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.12-13.09.48:134][ 17]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.12-13.09.48:134][ 17]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.12-13.09.48:134][ 17]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.12-13.09.48:134][ 17]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.12-13.09.48:136][ 17]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.12-13.09.48:148][ 17]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Crusher ANC Stereo)
+[2023.03.12-13.09.48:148][ 17]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.12-13.09.48:148][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.12-13.09.48:148][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.12-13.09.48:148][ 17]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2023.03.12-13.09.48:148][ 17]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2023.03.12-13.09.48:150][ 17]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2023.03.12-13.09.48:150][ 17]LogInit: FAudioDevice initialized.
+[2023.03.12-13.09.48:150][ 17]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2023.03.12-13.09.48:150][ 17]LogAudio: Display: Audio Device (ID: 27) registered with world 'FirstPersonMap'.
+[2023.03.12-13.09.48:152][ 17]LogLoad: Game class is 'GM_TargetGame_C'
+[2023.03.12-13.09.48:153][ 17]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.03.12-14.09.48
+[2023.03.12-13.09.48:153][ 17]LogWorld: Bringing up level for play took: 0.001339
+[2023.03.12-13.09.48:155][ 17]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2023.03.12-13.09.48:156][ 17]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1420.000 Y=650.000 Z=98.338
+[2023.03.12-13.09.48:156][ 17]PIE: Server logged in
+[2023.03.12-13.09.48:157][ 17]PIE: Play in editor total start time 0,102 seconds.
+[2023.03.12-13.09.50:725][316]LogBlueprintUserMessages: [GM_TargetGame_C_0] Win!
+[2023.03.12-13.09.53:330][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.12-13.09.53:330][624]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.12-13.09.53:330][624]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.12-13.09.53:330][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.12-13.09.53:330][624]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.03.12-13.09.53:334][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.12-13.09.53:338][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.12-13.09.53:376][624]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.12-13.09.53:376][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.03.12-13.09.53:378][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.03.12-13.09.53:383][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.12-13.09.53:386][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.03.12-13.09.53:409][625]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.03.12-13.09.56:267][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.09.56:319][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Target" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/BP_Target.uasset" SILENT=true
+[2023.03.12-13.09.56:323][966]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Target
+[2023.03.12-13.09.56:324][966]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/BP_Target9C825A3B48F5FBF36982D0A7715CC3D3.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/BP_Target.uasset'
+[2023.03.12-13.09.56:328][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 2.89 sec)
+[2023.03.12-13.09.56:334][966]AssetCheck: New page: Asset Save: BP_Target
+[2023.03.12-13.09.56:334][966]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Target.BP_Target
+[2023.03.12-13.10.00:390][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.10.00:408][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.10.00:413][430]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.10.00:414][430]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGame3521AE554CFB3207429A6691D0F004A5.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.10.00:418][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 28 ms (total: 2.92 sec)
+[2023.03.12-13.10.00:425][430]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.10.00:425][430]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.10.01:719][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.03.12-13.10.02:497][580]LogSlate: Window 'Save Content' being destroyed
+[2023.03.12-13.10.02:502][580]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.10.02:525][580]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/YE/UQB7JJV4BW4MQG4VL2FBAI
+[2023.03.12-13.10.02:526][580]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/UQB7JJV4BW4MQG4VL2FBAIAE8C462F466BA67DC4E9E79B644BDEF8.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/YE/UQB7JJV4BW4MQG4VL2FBAI.uasset'
+[2023.03.12-13.10.02:527][580]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/9R/JENMHBSC0UCYI46P9Q7LY0
+[2023.03.12-13.10.02:528][580]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/JENMHBSC0UCYI46P9Q7LY0DCD371EC4CE4BF1E541F84B7E39328D9.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/9R/JENMHBSC0UCYI46P9Q7LY0.uasset'
+[2023.03.12-13.10.02:529][580]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/0A/XEHE0SXY102X2V6OF5F7UF
+[2023.03.12-13.10.02:530][580]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/XEHE0SXY102X2V6OF5F7UFDE6D267744881DF2B4C7AFB0C0108261.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/0A/XEHE0SXY102X2V6OF5F7UF.uasset'
+[2023.03.12-13.10.02:535][580]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 2.95 sec)
+[2023.03.12-13.10.02:542][580]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.12-13.10.02:542][580]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Target.BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_A036BCBF3524AB6E01_2104914417
+[2023.03.12-13.10.02:542][580]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Target.BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_A036BCBF3524AB6E01_2128542418
+[2023.03.12-13.10.02:542][580]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Target.BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_A036BCBF3524A76E01_1609719711
+[2023.03.12-13.10.17:034][459]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.03.12-13.10.17:038][459]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.03.12-13.10.17:043][459]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.03.12-13.10.17:050][460]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.03.12-13.10.23:435][225]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WP_EndScreen
+[2023.03.12-13.10.23:440][225]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.03.12-13.10.25:920][513]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/Blueprints/WP_EndScreen.WP_EndScreen
+[2023.03.12-13.10.25:921][513]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.12-13.10.25:927][513]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.12-13.10.26:176][513]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.12-13.10.26:176][513]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.12-13.10.29:240][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.03.12-13.10.30:083][872]LogSlate: Window 'Save Content' being destroyed
+[2023.03.12-13.10.30:088][872]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.10.30:108][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WP_EndScreen" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset" SILENT=true
+[2023.03.12-13.10.30:109][872]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WP_EndScreen
+[2023.03.12-13.10.30:110][872]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/WP_EndScreenF80667364F8393DA2D5CF5A53976E649.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset'
+[2023.03.12-13.10.30:115][872]LogFileHelpers: InternalPromptForCheckoutAndSave took 26 ms (total: 2.98 sec)
+[2023.03.12-13.10.30:121][872]AssetCheck: New page: Asset Save: WP_EndScreen
+[2023.03.12-13.10.30:121][872]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WP_EndScreen.WP_EndScreen
+[2023.03.12-13.11.33:311][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.03.12-13.11.33:313][705]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.044
+[2023.03.12-13.11.33:313][705]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/WP_EndScreen] ([2] browsable assets)...
+[2023.03.12-13.11.33:316][705]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/WP_EndScreen.WP_EndScreen]
+[2023.03.12-13.11.33:316][705]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/WP_EndScreen]
+[2023.03.12-13.11.33:318][705]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/WP_EndScreen_Auto9
+[2023.03.12-13.11.33:318][705]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/WP_EndScreen_Auto9D7EFC9CE408A8D49080C60A086954155.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/Autosaves/Game/FirstPerson/Blueprints/WP_EndScreen_Auto9.uasset'
+[2023.03.12-13.11.33:319][705]LogFileHelpers: Auto-saving content packages took 0.006
+[2023.03.12-13.14.24:885][789]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.14.24:913][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WP_EndScreen" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset" SILENT=true
+[2023.03.12-13.14.24:914][789]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WP_EndScreen
+[2023.03.12-13.14.24:915][789]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/WP_EndScreen1FCE96D7494B145D3A7DA88EE2A4E50C.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset'
+[2023.03.12-13.14.24:919][789]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 3.01 sec)
+[2023.03.12-13.14.24:927][789]AssetCheck: New page: Asset Save: WP_EndScreen
+[2023.03.12-13.14.24:927][789]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WP_EndScreen.WP_EndScreen
+[2023.03.12-13.14.26:427][889]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.14.26:443][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WP_EndScreen" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset" SILENT=true
+[2023.03.12-13.14.26:444][889]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WP_EndScreen
+[2023.03.12-13.14.26:445][889]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/WP_EndScreen409FC800440E2B5D5E248EBCAAE3A58F.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset'
+[2023.03.12-13.14.26:448][889]LogFileHelpers: InternalPromptForCheckoutAndSave took 21 ms (total: 3.03 sec)
+[2023.03.12-13.14.26:455][889]AssetCheck: New page: Asset Save: WP_EndScreen
+[2023.03.12-13.14.26:455][889]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WP_EndScreen.WP_EndScreen
+[2023.03.12-13.14.26:627][910]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.14.26:643][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WP_EndScreen" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset" SILENT=true
+[2023.03.12-13.14.26:645][910]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WP_EndScreen
+[2023.03.12-13.14.26:645][910]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/WP_EndScreenA01E7A0042ABAD56FE09CD8346635699.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset'
+[2023.03.12-13.14.26:649][910]LogFileHelpers: InternalPromptForCheckoutAndSave took 21 ms (total: 3.05 sec)
+[2023.03.12-13.14.26:655][910]AssetCheck: New page: Asset Save: WP_EndScreen
+[2023.03.12-13.14.26:655][910]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WP_EndScreen.WP_EndScreen
+[2023.03.12-13.14.27:127][967]BlueprintLog: New page: Compile WP_EndScreen
+[2023.03.12-13.14.27:186][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.03.12-13.14.31:582][475]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.14.31:608][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WP_EndScreen" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset" SILENT=true
+[2023.03.12-13.14.31:610][475]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WP_EndScreen
+[2023.03.12-13.14.31:611][475]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/WP_EndScreen2F6557EC4BE5E48DD1235EB938802E55.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset'
+[2023.03.12-13.14.31:614][475]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 3.08 sec)
+[2023.03.12-13.14.31:620][475]AssetCheck: New page: Asset Save: WP_EndScreen
+[2023.03.12-13.14.31:620][475]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WP_EndScreen.WP_EndScreen
+[2023.03.12-13.14.31:793][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.14.31:812][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WP_EndScreen" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset" SILENT=true
+[2023.03.12-13.14.31:814][496]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WP_EndScreen
+[2023.03.12-13.14.31:815][496]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/WP_EndScreen2303BF804DC81175F2391B97AA15DBB3.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset'
+[2023.03.12-13.14.31:818][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 24 ms (total: 3.11 sec)
+[2023.03.12-13.14.31:824][496]AssetCheck: New page: Asset Save: WP_EndScreen
+[2023.03.12-13.14.31:824][496]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WP_EndScreen.WP_EndScreen
+[2023.03.12-13.14.33:331][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.03.12-13.14.52:638][746]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.12-13.14.52:638][746]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.12-13.14.52:638][746]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.12-13.15.07:770][191]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.15.07:788][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.15.07:793][191]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.15.07:794][191]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGameDD5684D3484AFD0BC42DEBA1B931B70A.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.15.07:798][191]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 3.14 sec)
+[2023.03.12-13.15.07:804][191]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.15.07:804][191]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.15.07:926][206]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.15.07:945][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.15.07:950][206]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.15.07:951][206]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGame133E19EC45D23331A70393921BDA1E19.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.15.07:954][206]LogFileHelpers: InternalPromptForCheckoutAndSave took 27 ms (total: 3.17 sec)
+[2023.03.12-13.15.07:961][206]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.15.07:961][206]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.15.09:240][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.03.12-13.15.17:338][774]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.12-13.15.17:342][774]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.03.12-13.15.17:343][774]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.12-13.15.17:343][774]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.12-13.15.17:343][774]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 167 us)
+[2023.03.12-13.15.17:343][774]LogWorldPartition: Display: GenerateStreaming took 191 us (total: 11 ms)
+[2023.03.12-13.15.17:343][774]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.12-13.15.17:351][774]LogPlayLevel: [PlayLevel] Compiling GM_TargetGame before play...
+[2023.03.12-13.15.17:435][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.03.12-13.15.17:438][774]LogPlayLevel: PlayLevel: Blueprint regeneration took 94 ms (1 blueprints)
+[2023.03.12-13.15.17:439][774]PIE: New page: PIE session: FirstPersonMap (12 Mar 2023, 15:15:17)
+[2023.03.12-13.15.17:439][774]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.12-13.15.17:442][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003336s)
+[2023.03.12-13.15.17:442][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003357s)
+[2023.03.12-13.15.17:442][774]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.12-13.15.17:443][774]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.03.12-13.15.17:443][774]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.12-13.15.17:443][774]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.12-13.15.17:443][774]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.12-13.15.17:444][774]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.03.12-13.15.17:444][774]LogWorldPartition: Display: WorldPartition initialize took 809 us (total: 279 ms)
+[2023.03.12-13.15.17:444][774]LogPlayLevel: PIE: World Init took: (0.001619s)
+[2023.03.12-13.15.17:483][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.03.12-13.15.17:484][774]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.03.12-13.15.17:484][774]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.12-13.15.17:484][774]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.12-13.15.17:484][774]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.12-13.15.17:484][774]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.12-13.15.17:485][774]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.12-13.15.17:485][774]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.12-13.15.17:485][774]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.12-13.15.17:485][774]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.12-13.15.17:485][774]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.12-13.15.17:485][774]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.12-13.15.17:485][774]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.12-13.15.17:486][774]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.12-13.15.17:498][774]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Crusher ANC Stereo)
+[2023.03.12-13.15.17:498][774]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.12-13.15.17:498][774]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.12-13.15.17:498][774]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.12-13.15.17:499][774]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2023.03.12-13.15.17:499][774]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2023.03.12-13.15.17:499][774]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2023.03.12-13.15.17:500][774]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2023.03.12-13.15.17:500][774]LogInit: FAudioDevice initialized.
+[2023.03.12-13.15.17:500][774]LogAudio: Display: Audio Device (ID: 28) registered with world 'FirstPersonMap'.
+[2023.03.12-13.15.17:525][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.12-13.15.17:525][774]LogLoad: Game class is 'GM_TargetGame_C'
+[2023.03.12-13.15.17:527][774]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.03.12-14.15.17
+[2023.03.12-13.15.17:527][774]LogWorld: Bringing up level for play took: 0.001584
+[2023.03.12-13.15.17:529][774]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2023.03.12-13.15.17:530][774]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1420.000 Y=650.000 Z=98.338
+[2023.03.12-13.15.17:530][774]PIE: Server logged in
+[2023.03.12-13.15.17:531][774]PIE: Play in editor total start time 0,189 seconds.
+[2023.03.12-13.15.17:548][774]LogViewport: Scene viewport resized to 2369x1101, mode Windowed.
+[2023.03.12-13.15.22:680][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.12-13.15.22:680][359]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.12-13.15.22:680][359]LogSlate: Window 'ElectiveY2 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.03.12-13.15.22:684][359]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.12-13.15.22:684][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.12-13.15.22:684][359]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.03.12-13.15.22:687][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.12-13.15.22:692][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.12-13.15.22:736][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.03.12-13.15.22:737][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.03.12-13.15.22:742][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.03.12-13.15.22:768][360]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.03.12-13.16.44:346][906]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.16.44:370][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.16.44:375][906]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.16.44:375][906]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGameEDF87564421966372D907DB2674760E4.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.16.44:380][906]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 3.20 sec)
+[2023.03.12-13.16.44:386][906]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.16.44:386][906]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.16.44:550][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.16.44:563][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.16.44:569][926]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.16.44:569][926]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGameCAF2FE78431BE200F698D2BC8D935723.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.16.44:574][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 24 ms (total: 3.22 sec)
+[2023.03.12-13.16.44:580][926]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.16.44:580][926]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.16.45:443][ 29]BlueprintLog: New page: Compile GM_TargetGame
+[2023.03.12-13.16.45:499][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.03.12-13.17.02:930][936]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.17.02:951][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.17.02:956][936]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.17.02:956][936]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGameDB98A8584BB31FBC41D4E59641F112A9.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.17.02:961][936]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 3.26 sec)
+[2023.03.12-13.17.02:967][936]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.17.02:967][936]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.17.03:123][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.17.03:145][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.17.03:151][955]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.17.03:151][955]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGame95A3B1864CD9946C28E24CA19792C4D1.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.17.03:155][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 3.29 sec)
+[2023.03.12-13.17.03:161][955]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.17.03:161][955]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.17.11:099][515]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.12-13.17.11:103][515]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.03.12-13.17.11:104][515]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.12-13.17.11:104][515]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.12-13.17.11:104][515]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 174 us)
+[2023.03.12-13.17.11:104][515]LogWorldPartition: Display: GenerateStreaming took 213 us (total: 11 ms)
+[2023.03.12-13.17.11:104][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.12-13.17.11:105][515]PIE: New page: PIE session: FirstPersonMap (12 Mar 2023, 15:17:11)
+[2023.03.12-13.17.11:105][515]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.12-13.17.11:108][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003312s)
+[2023.03.12-13.17.11:108][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003332s)
+[2023.03.12-13.17.11:108][515]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.12-13.17.11:108][515]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.03.12-13.17.11:109][515]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.12-13.17.11:109][515]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.12-13.17.11:109][515]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.12-13.17.11:110][515]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.03.12-13.17.11:110][515]LogWorldPartition: Display: WorldPartition initialize took 799 us (total: 280 ms)
+[2023.03.12-13.17.11:110][515]LogPlayLevel: PIE: World Init took: (0.001495s)
+[2023.03.12-13.17.11:151][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.03.12-13.17.11:153][515]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.03.12-13.17.11:153][515]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.12-13.17.11:153][515]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.12-13.17.11:153][515]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.12-13.17.11:153][515]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.12-13.17.11:153][515]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.12-13.17.11:153][515]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.12-13.17.11:153][515]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.12-13.17.11:153][515]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.12-13.17.11:153][515]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.12-13.17.11:153][515]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.12-13.17.11:153][515]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.12-13.17.11:155][515]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.12-13.17.11:166][515]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Crusher ANC Stereo)
+[2023.03.12-13.17.11:166][515]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.12-13.17.11:166][515]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.12-13.17.11:166][515]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.12-13.17.11:167][515]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2023.03.12-13.17.11:167][515]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2023.03.12-13.17.11:168][515]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2023.03.12-13.17.11:168][515]LogInit: FAudioDevice initialized.
+[2023.03.12-13.17.11:168][515]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2023.03.12-13.17.11:168][515]LogAudio: Display: Audio Device (ID: 29) registered with world 'FirstPersonMap'.
+[2023.03.12-13.17.11:190][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.12-13.17.11:190][515]LogLoad: Game class is 'GM_TargetGame_C'
+[2023.03.12-13.17.11:191][515]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.03.12-14.17.11
+[2023.03.12-13.17.11:191][515]LogWorld: Bringing up level for play took: 0.001678
+[2023.03.12-13.17.11:193][515]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2023.03.12-13.17.11:194][515]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1420.000 Y=650.000 Z=98.338
+[2023.03.12-13.17.11:196][515]PIE: Server logged in
+[2023.03.12-13.17.11:197][515]PIE: Play in editor total start time 0,095 seconds.
+[2023.03.12-13.17.11:204][515]LogViewport: Scene viewport resized to 2369x1101, mode Windowed.
+[2023.03.12-13.17.14:145][849]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.03.12-13.17.14:145][849]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.03.12-13.17.14:145][849]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.03.12-13.17.18:120][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.12-13.17.18:120][322]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.12-13.17.18:120][322]LogSlate: Window 'ElectiveY2 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.03.12-13.17.18:124][322]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.12-13.17.18:124][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.12-13.17.18:124][322]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.03.12-13.17.18:127][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.12-13.17.18:132][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.12-13.17.18:173][322]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.12-13.17.18:174][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.03.12-13.17.18:175][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.03.12-13.17.18:180][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.03.12-13.17.18:206][323]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.03.12-13.18.17:593][290]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.18.17:615][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.18.17:620][290]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.18.17:621][290]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGame87EE3DAA4B0391CC02832299B0C0F1F9.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.18.17:625][290]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 3.32 sec)
+[2023.03.12-13.18.17:631][290]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.18.17:631][290]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.18.17:786][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.18.17:799][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.18.17:805][309]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.18.17:805][309]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGameBE1A534F424740374CD23185A154523A.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.18.17:809][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 22 ms (total: 3.34 sec)
+[2023.03.12-13.18.17:815][309]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.18.17:815][309]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.18.24:952][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.18.24:975][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.18.24:980][164]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.18.24:981][164]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGame7D149FBC4C88696F3DD163A47E3BE26A.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.18.24:985][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 3.37 sec)
+[2023.03.12-13.18.24:991][164]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.18.24:991][164]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.18.25:122][180]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.18.25:145][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.18.25:151][180]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.18.25:151][180]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGameCFCF64EC44CD2AACD2F36A88D8EFDB07.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.18.25:155][180]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 3.41 sec)
+[2023.03.12-13.18.25:161][180]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.18.25:161][180]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.18.28:289][554]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.18.28:303][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.18.28:308][554]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.18.28:309][554]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGame3967AC5A422B0FE55A2373AAB9EECD44.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.18.28:313][554]LogFileHelpers: InternalPromptForCheckoutAndSave took 23 ms (total: 3.43 sec)
+[2023.03.12-13.18.28:319][554]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.18.28:319][554]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.18.28:440][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.18.28:460][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.18.28:465][569]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.18.28:466][569]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGame7CC3CF9344366D41EF3451AEBC6E9FD0.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.18.28:470][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 3.46 sec)
+[2023.03.12-13.18.28:476][569]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.18.28:476][569]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.18.36:575][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.18.36:600][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.18.36:605][538]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.18.36:606][538]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGame270ED9014F36861CA2B03FA4C82B179E.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.18.36:610][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 3.50 sec)
+[2023.03.12-13.18.36:616][538]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.18.36:616][538]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.18.36:772][557]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.18.36:788][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.18.36:793][557]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.18.36:794][557]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGame51D57038472AE8B5CA2C3E9938913F36.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.18.36:798][557]LogFileHelpers: InternalPromptForCheckoutAndSave took 26 ms (total: 3.52 sec)
+[2023.03.12-13.18.36:804][557]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.18.36:804][557]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.18.37:952][695]BlueprintLog: New page: Compile GM_TargetGame
+[2023.03.12-13.18.38:009][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.03.12-13.18.44:875][882]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.18.44:904][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.18.44:910][882]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.18.44:910][882]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGameC9FEAF814853BF80679621AB8BB2C49F.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.18.44:914][882]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 3.56 sec)
+[2023.03.12-13.18.44:921][882]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.18.44:921][882]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.18.45:087][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.18.45:108][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.18.45:114][902]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.18.45:114][902]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGameC8BD67344D2A3E03B7F588A7350DC202.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.18.45:118][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 3.59 sec)
+[2023.03.12-13.18.45:125][902]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.18.45:125][902]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.18.46:024][ 10]BlueprintLog: New page: Compile GM_TargetGame
+[2023.03.12-13.18.46:083][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.03.12-13.18.47:535][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.03.12-13.18.48:282][162]LogSlate: Window 'Save Content' being destroyed
+[2023.03.12-13.18.48:287][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.18.48:304][162]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/YE/UQB7JJV4BW4MQG4VL2FBAI
+[2023.03.12-13.18.48:305][162]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/UQB7JJV4BW4MQG4VL2FBAIA2222AD2443BDF0D1ADA349D8A28666A.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/YE/UQB7JJV4BW4MQG4VL2FBAI.uasset'
+[2023.03.12-13.18.48:306][162]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/9R/JENMHBSC0UCYI46P9Q7LY0
+[2023.03.12-13.18.48:307][162]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/JENMHBSC0UCYI46P9Q7LY0F8E50073456442BEDA56ABB08C03F5CE.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/9R/JENMHBSC0UCYI46P9Q7LY0.uasset'
+[2023.03.12-13.18.48:308][162]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/0A/XEHE0SXY102X2V6OF5F7UF
+[2023.03.12-13.18.48:308][162]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/XEHE0SXY102X2V6OF5F7UF2FB860FB4430FAD58EC11FB4ED53ACAE.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/0A/XEHE0SXY102X2V6OF5F7UF.uasset'
+[2023.03.12-13.18.48:314][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 26 ms (total: 3.62 sec)
+[2023.03.12-13.18.48:321][162]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.12-13.18.48:321][162]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Target.BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_A036BCBF3524AB6E01_2104914417
+[2023.03.12-13.18.48:321][162]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Target.BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_A036BCBF3524AB6E01_2128542418
+[2023.03.12-13.18.48:321][162]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Target.BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_A036BCBF3524A76E01_1609719711
+[2023.03.12-13.37.42:288][ 91]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.12-13.37.42:288][ 91]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.12-13.38.33:914][659]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.12-13.38.33:918][659]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.03.12-13.38.33:919][659]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.12-13.38.33:919][659]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.12-13.38.33:919][659]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 179 us)
+[2023.03.12-13.38.33:919][659]LogWorldPartition: Display: GenerateStreaming took 201 us (total: 11 ms)
+[2023.03.12-13.38.33:919][659]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.12-13.38.33:929][659]LogPlayLevel: [PlayLevel] Compiling WP_EndScreen before play...
+[2023.03.12-13.38.34:019][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.03.12-13.38.34:022][659]LogPlayLevel: PlayLevel: Blueprint regeneration took 101 ms (1 blueprints)
+[2023.03.12-13.38.34:022][659]PIE: New page: PIE session: FirstPersonMap (12 Mar 2023, 15:38:34)
+[2023.03.12-13.38.34:022][659]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.12-13.38.34:025][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003289s)
+[2023.03.12-13.38.34:025][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003310s)
+[2023.03.12-13.38.34:025][659]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.12-13.38.34:026][659]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.03.12-13.38.34:026][659]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.12-13.38.34:026][659]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.12-13.38.34:026][659]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.12-13.38.34:027][659]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.03.12-13.38.34:027][659]LogWorldPartition: Display: WorldPartition initialize took 789 us (total: 281 ms)
+[2023.03.12-13.38.34:027][659]LogPlayLevel: PIE: World Init took: (0.001587s)
+[2023.03.12-13.38.34:065][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.03.12-13.38.34:067][659]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.03.12-13.38.34:067][659]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.12-13.38.34:067][659]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.12-13.38.34:067][659]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.12-13.38.34:067][659]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.12-13.38.34:067][659]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.12-13.38.34:067][659]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.12-13.38.34:067][659]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.12-13.38.34:067][659]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.12-13.38.34:067][659]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.12-13.38.34:067][659]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.12-13.38.34:067][659]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.12-13.38.34:069][659]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.12-13.38.34:080][659]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Crusher ANC Stereo)
+[2023.03.12-13.38.34:081][659]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.12-13.38.34:081][659]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.12-13.38.34:081][659]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.12-13.38.34:081][659]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2023.03.12-13.38.34:081][659]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2023.03.12-13.38.34:082][659]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2023.03.12-13.38.34:082][659]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2023.03.12-13.38.34:082][659]LogInit: FAudioDevice initialized.
+[2023.03.12-13.38.34:082][659]LogAudio: Display: Audio Device (ID: 30) registered with world 'FirstPersonMap'.
+[2023.03.12-13.38.34:106][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.12-13.38.34:106][659]LogLoad: Game class is 'GM_TargetGame_C'
+[2023.03.12-13.38.34:108][659]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.03.12-14.38.34
+[2023.03.12-13.38.34:108][659]LogWorld: Bringing up level for play took: 0.001560
+[2023.03.12-13.38.34:109][659]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2023.03.12-13.38.34:111][659]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1420.000 Y=650.000 Z=98.338
+[2023.03.12-13.38.34:113][659]PIE: Server logged in
+[2023.03.12-13.38.34:113][659]PIE: Play in editor total start time 0,195 seconds.
+[2023.03.12-13.38.34:139][659]LogViewport: Scene viewport resized to 2369x1101, mode Windowed.
+[2023.03.12-13.38.38:350][ 80]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.03.12-13.38.38:350][ 80]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.03.12-13.38.38:350][ 80]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.03.12-13.38.40:999][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.12-13.38.40:999][393]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.12-13.38.40:999][393]LogSlate: Window 'ElectiveY2 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.03.12-13.38.41:003][393]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.12-13.38.41:003][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.12-13.38.41:003][393]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.03.12-13.38.41:006][393]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.12-13.38.41:011][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.12-13.38.41:054][393]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.03.12-13.38.41:056][393]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.03.12-13.38.41:061][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.03.12-13.38.41:089][394]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.03.12-13.38.47:654][169]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.12-13.38.47:917][200]LogEditorTransaction: Undo Edit Color and Opacity
+[2023.03.12-13.38.53:478][815]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.12-13.38.59:487][521]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.12-13.38.59:487][521]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.12-13.39.08:399][574]BlueprintLog: New page: Compile WP_EndScreen
+[2023.03.12-13.39.08:455][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.03.12-13.39.24:294][414]LogSlate: Took 0.002916 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.12-13.39.30:582][165]BlueprintLog: New page: Compile WP_EndScreen
+[2023.03.12-13.39.30:638][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.03.12-13.39.31:344][245]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.39.31:365][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WP_EndScreen" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset" SILENT=true
+[2023.03.12-13.39.31:368][245]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WP_EndScreen
+[2023.03.12-13.39.31:369][245]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/WP_EndScreen08FE3CC14F2A467384C51B994AFF6F87.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset'
+[2023.03.12-13.39.31:373][245]LogFileHelpers: InternalPromptForCheckoutAndSave took 28 ms (total: 3.65 sec)
+[2023.03.12-13.39.31:379][245]AssetCheck: New page: Asset Save: WP_EndScreen
+[2023.03.12-13.39.31:379][245]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WP_EndScreen.WP_EndScreen
+[2023.03.12-13.39.35:772][520]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.12-13.39.35:776][520]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.03.12-13.39.35:777][520]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.12-13.39.35:777][520]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.12-13.39.35:777][520]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 185 us)
+[2023.03.12-13.39.35:778][520]LogWorldPartition: Display: GenerateStreaming took 189 us (total: 12 ms)
+[2023.03.12-13.39.35:778][520]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.12-13.39.35:778][520]PIE: New page: PIE session: FirstPersonMap (12 Mar 2023, 15:39:35)
+[2023.03.12-13.39.35:800][520]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.12-13.39.35:803][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003393s)
+[2023.03.12-13.39.35:803][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003416s)
+[2023.03.12-13.39.35:803][520]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.12-13.39.35:803][520]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.03.12-13.39.35:804][520]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.12-13.39.35:804][520]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.12-13.39.35:804][520]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.12-13.39.35:804][520]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.03.12-13.39.35:804][520]LogWorldPartition: Display: WorldPartition initialize took 806 us (total: 282 ms)
+[2023.03.12-13.39.35:804][520]LogPlayLevel: PIE: World Init took: (0.001568s)
+[2023.03.12-13.39.35:845][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.03.12-13.39.35:849][520]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2023.03.12-13.39.35:849][520]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.12-13.39.35:849][520]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.12-13.39.35:849][520]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.12-13.39.35:849][520]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.12-13.39.35:849][520]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.12-13.39.35:849][520]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.12-13.39.35:849][520]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.12-13.39.35:849][520]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.12-13.39.35:849][520]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.12-13.39.35:849][520]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.12-13.39.35:849][520]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.12-13.39.35:851][520]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.12-13.39.35:862][520]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Crusher ANC Stereo)
+[2023.03.12-13.39.35:862][520]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.12-13.39.35:862][520]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.12-13.39.35:862][520]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.12-13.39.35:863][520]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2023.03.12-13.39.35:863][520]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2023.03.12-13.39.35:864][520]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2023.03.12-13.39.35:864][520]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2023.03.12-13.39.35:864][520]LogInit: FAudioDevice initialized.
+[2023.03.12-13.39.35:864][520]LogAudio: Display: Audio Device (ID: 31) registered with world 'FirstPersonMap'.
+[2023.03.12-13.39.35:866][520]LogLoad: Game class is 'GM_TargetGame_C'
+[2023.03.12-13.39.35:868][520]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.03.12-14.39.35
+[2023.03.12-13.39.35:868][520]LogWorld: Bringing up level for play took: 0.001486
+[2023.03.12-13.39.35:869][520]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2023.03.12-13.39.35:870][520]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1420.000 Y=650.000 Z=98.338
+[2023.03.12-13.39.35:871][520]PIE: Server logged in
+[2023.03.12-13.39.35:871][520]PIE: Play in editor total start time 0,095 seconds.
+[2023.03.12-13.39.38:148][784]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.03.12-13.39.38:148][784]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.03.12-13.39.38:148][784]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.03.12-13.39.38:915][876]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.03.12-13.39.38:915][876]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.03.12-13.39.38:915][876]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.12-13.39.38:916][876]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.12-13.39.38:917][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.12-13.39.38:917][876]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.03.12-13.39.38:979][876]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.12-13.39.38:981][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.03.12-13.39.38:986][876]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.12-13.39.38:989][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003169s)
+[2023.03.12-13.39.38:989][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003199s)
+[2023.03.12-13.39.38:989][876]LogAudio: Display: Audio Device (ID: 31) registered with world 'FirstPersonMap'.
+[2023.03.12-13.39.38:989][876]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.12-13.39.38:990][876]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.03.12-13.39.38:990][876]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.12-13.39.38:990][876]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.12-13.39.38:990][876]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.12-13.39.38:991][876]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.03.12-13.39.38:991][876]LogWorldPartition: Display: WorldPartition initialize took 782 us (total: 282 ms)
+[2023.03.12-13.39.38:991][876]LogPlayLevel: PIE: World Init took: (0.001427s)
+[2023.03.12-13.39.38:991][876]LogLoad: Game class is 'GM_TargetGame_C'
+[2023.03.12-13.39.38:992][876]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.03.12-14.39.38
+[2023.03.12-13.39.38:992][876]LogWorld: Bringing up level for play took: 0.001221
+[2023.03.12-13.39.38:993][876]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1420.000 Y=650.000 Z=98.338
+[2023.03.12-13.39.38:994][876]LogLoad: Took 0.078308 seconds to LoadMap(/Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap)
+[2023.03.12-13.39.41:369][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.12-13.39.41:369][157]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.12-13.39.41:369][157]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.12-13.39.41:369][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.12-13.39.41:369][157]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.03.12-13.39.41:371][157]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.12-13.39.41:376][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.12-13.39.41:416][157]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.12-13.39.41:417][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.03.12-13.39.41:418][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.03.12-13.39.41:421][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.12-13.39.41:423][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.03.12-13.39.41:448][158]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.03.12-13.40.29:161][856]LogEditorTransaction: Undo Move Nodes
+[2023.03.12-13.40.35:518][573]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.40.35:539][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.40.35:545][573]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.40.35:545][573]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGame319599B64E44C7002DD50AB60DCB9712.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.40.35:549][573]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 3.68 sec)
+[2023.03.12-13.40.35:555][573]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.40.35:555][573]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.40.35:661][586]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.40.35:685][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_TargetGame" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset" SILENT=true
+[2023.03.12-13.40.35:691][586]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_TargetGame
+[2023.03.12-13.40.35:691][586]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/GM_TargetGame276142894CE8BFBE8E60EBA4EB1AECB2.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset'
+[2023.03.12-13.40.35:695][586]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 3.71 sec)
+[2023.03.12-13.40.35:701][586]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.03.12-13.40.35:701][586]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_TargetGame.GM_TargetGame
+[2023.03.12-13.40.56:309][106]BlueprintLog: New page: Compile GM_TargetGame
+[2023.03.12-13.40.56:368][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.03.12-13.40.56:543][108]BlueprintLog: New page: Compile GM_TargetGame
+[2023.03.12-13.40.56:600][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.03.12-13.40.58:482][317]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.12-13.40.58:483][317]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.12-13.41.38:002][845]BlueprintLog: New page: Compile WP_EndScreen
+[2023.03.12-13.41.38:065][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.03.12-13.41.41:398][918]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.41.41:419][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WP_EndScreen" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset" SILENT=true
+[2023.03.12-13.41.41:422][918]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WP_EndScreen
+[2023.03.12-13.41.41:422][918]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/WP_EndScreenEA5AA2D2461533ED7EC8CD8B5D97AF41.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset'
+[2023.03.12-13.41.41:427][918]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 3.74 sec)
+[2023.03.12-13.41.41:434][918]AssetCheck: New page: Asset Save: WP_EndScreen
+[2023.03.12-13.41.41:434][918]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WP_EndScreen.WP_EndScreen
+[2023.03.12-13.41.57:458][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.41.57:488][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WP_EndScreen" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset" SILENT=true
+[2023.03.12-13.41.57:491][833]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WP_EndScreen
+[2023.03.12-13.41.57:491][833]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/WP_EndScreen408E02484541CA8969EB178B34E19A9A.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset'
+[2023.03.12-13.41.57:495][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 3.78 sec)
+[2023.03.12-13.41.57:502][833]AssetCheck: New page: Asset Save: WP_EndScreen
+[2023.03.12-13.41.57:502][833]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WP_EndScreen.WP_EndScreen
+[2023.03.12-13.41.57:935][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.41.57:959][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WP_EndScreen" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset" SILENT=true
+[2023.03.12-13.41.57:961][885]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WP_EndScreen
+[2023.03.12-13.41.57:962][885]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/WP_EndScreen5A289DEC478640EDE2372AA2325A8D65.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset'
+[2023.03.12-13.41.57:965][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 3.81 sec)
+[2023.03.12-13.41.57:972][885]AssetCheck: New page: Asset Save: WP_EndScreen
+[2023.03.12-13.41.57:972][885]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WP_EndScreen.WP_EndScreen
+[2023.03.12-13.41.58:229][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.41.58:248][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WP_EndScreen" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset" SILENT=true
+[2023.03.12-13.41.58:250][916]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WP_EndScreen
+[2023.03.12-13.41.58:250][916]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/WP_EndScreen70E515D84CCAEDDE53B4F3A2AA16FA00.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset'
+[2023.03.12-13.41.58:254][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 25 ms (total: 3.84 sec)
+[2023.03.12-13.41.58:260][916]AssetCheck: New page: Asset Save: WP_EndScreen
+[2023.03.12-13.41.58:260][916]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WP_EndScreen.WP_EndScreen
+[2023.03.12-13.42.00:431][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.03.12-13.42.01:405][168]LogSlate: Window 'Save Content' being destroyed
+[2023.03.12-13.42.01:410][168]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.42.01:431][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/YE/UQB7JJV4BW4MQG4VL2FBAI
+[2023.03.12-13.42.01:431][168]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/UQB7JJV4BW4MQG4VL2FBAI4CFA35794AE71372E1E254AB3B977D0A.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/YE/UQB7JJV4BW4MQG4VL2FBAI.uasset'
+[2023.03.12-13.42.01:433][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/9R/JENMHBSC0UCYI46P9Q7LY0
+[2023.03.12-13.42.01:434][168]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/JENMHBSC0UCYI46P9Q7LY0B6E4F4F64B0F1BD729D39DA14FCA80D6.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/9R/JENMHBSC0UCYI46P9Q7LY0.uasset'
+[2023.03.12-13.42.01:435][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/0A/XEHE0SXY102X2V6OF5F7UF
+[2023.03.12-13.42.01:435][168]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/XEHE0SXY102X2V6OF5F7UFA3668D4248251731B90D7F931374DF9C.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/0A/XEHE0SXY102X2V6OF5F7UF.uasset'
+[2023.03.12-13.42.01:441][168]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 3.87 sec)
+[2023.03.12-13.42.01:448][168]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.12-13.42.01:448][168]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Target.BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_A036BCBF3524AB6E01_2104914417
+[2023.03.12-13.42.01:448][168]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Target.BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_A036BCBF3524AB6E01_2128542418
+[2023.03.12-13.42.01:448][168]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Target.BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_A036BCBF3524A76E01_1609719711
+[2023.03.12-13.42.03:715][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.42.03:733][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WP_EndScreen" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset" SILENT=true
+[2023.03.12-13.42.03:735][440]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WP_EndScreen
+[2023.03.12-13.42.03:736][440]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/WP_EndScreenBF1600154B739CB61CA9E8B659AB7CFC.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset'
+[2023.03.12-13.42.03:739][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 24 ms (total: 3.89 sec)
+[2023.03.12-13.42.03:745][440]AssetCheck: New page: Asset Save: WP_EndScreen
+[2023.03.12-13.42.03:745][440]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WP_EndScreen.WP_EndScreen
+[2023.03.12-13.42.04:291][506]BlueprintLog: New page: Compile WP_EndScreen
+[2023.03.12-13.42.04:346][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.03.12-13.42.05:876][669]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.12-13.42.05:880][669]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.03.12-13.42.05:881][669]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.12-13.42.05:881][669]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.12-13.42.05:881][669]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 190 us)
+[2023.03.12-13.42.05:881][669]LogWorldPartition: Display: GenerateStreaming took 175 us (total: 12 ms)
+[2023.03.12-13.42.05:882][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.12-13.42.05:882][669]PIE: New page: PIE session: FirstPersonMap (12 Mar 2023, 15:42:05)
+[2023.03.12-13.42.05:882][669]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.12-13.42.05:885][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003187s)
+[2023.03.12-13.42.05:885][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003204s)
+[2023.03.12-13.42.05:885][669]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.12-13.42.05:885][669]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.03.12-13.42.05:885][669]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.12-13.42.05:885][669]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.12-13.42.05:886][669]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.12-13.42.05:886][669]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.03.12-13.42.05:886][669]LogWorldPartition: Display: WorldPartition initialize took 778 us (total: 283 ms)
+[2023.03.12-13.42.05:886][669]LogPlayLevel: PIE: World Init took: (0.001416s)
+[2023.03.12-13.42.05:927][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.03.12-13.42.05:930][669]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.03.12-13.42.05:930][669]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.12-13.42.05:930][669]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.12-13.42.05:930][669]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.12-13.42.05:930][669]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.12-13.42.05:930][669]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.12-13.42.05:930][669]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.12-13.42.05:930][669]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.12-13.42.05:930][669]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.12-13.42.05:930][669]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.12-13.42.05:930][669]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.12-13.42.05:930][669]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.12-13.42.05:931][669]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.12-13.42.05:943][669]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Crusher ANC Stereo)
+[2023.03.12-13.42.05:943][669]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.12-13.42.05:943][669]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.12-13.42.05:943][669]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.12-13.42.05:943][669]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2023.03.12-13.42.05:943][669]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2023.03.12-13.42.05:944][669]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2023.03.12-13.42.05:944][669]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2023.03.12-13.42.05:944][669]LogInit: FAudioDevice initialized.
+[2023.03.12-13.42.05:944][669]LogAudio: Display: Audio Device (ID: 32) registered with world 'FirstPersonMap'.
+[2023.03.12-13.42.05:947][669]LogLoad: Game class is 'GM_TargetGame_C'
+[2023.03.12-13.42.05:948][669]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.03.12-14.42.05
+[2023.03.12-13.42.05:948][669]LogWorld: Bringing up level for play took: 0.001413
+[2023.03.12-13.42.05:949][669]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2023.03.12-13.42.05:950][669]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1420.000 Y=650.000 Z=98.338
+[2023.03.12-13.42.05:951][669]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.03.12-13.42.05:951][669]PIE: Server logged in
+[2023.03.12-13.42.05:952][669]PIE: Play in editor total start time 0,072 seconds.
+[2023.03.12-13.42.08:461][956]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.03.12-13.42.08:461][956]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.03.12-13.42.08:461][956]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.03.12-13.42.10:452][195]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.03.12-13.42.10:452][195]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.03.12-13.42.10:452][195]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.12-13.42.10:453][195]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.12-13.42.10:453][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.12-13.42.10:453][195]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.03.12-13.42.10:528][195]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.12-13.42.10:532][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.03.12-13.42.10:534][195]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.12-13.42.10:538][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003199s)
+[2023.03.12-13.42.10:538][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003228s)
+[2023.03.12-13.42.10:538][195]LogAudio: Display: Audio Device (ID: 32) registered with world 'FirstPersonMap'.
+[2023.03.12-13.42.10:538][195]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.12-13.42.10:538][195]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.03.12-13.42.10:538][195]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.12-13.42.10:538][195]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.12-13.42.10:538][195]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.12-13.42.10:539][195]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.03.12-13.42.10:539][195]LogWorldPartition: Display: WorldPartition initialize took 767 us (total: 284 ms)
+[2023.03.12-13.42.10:539][195]LogPlayLevel: PIE: World Init took: (0.001397s)
+[2023.03.12-13.42.10:539][195]LogLoad: Game class is 'GM_TargetGame_C'
+[2023.03.12-13.42.10:540][195]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.03.12-14.42.10
+[2023.03.12-13.42.10:540][195]LogWorld: Bringing up level for play took: 0.001061
+[2023.03.12-13.42.10:541][195]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.03.12-13.42.10:541][195]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.03.12-13.42.10:541][195]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1420.000 Y=650.000 Z=98.338
+[2023.03.12-13.42.10:541][195]LogLoad: Took 0.088496 seconds to LoadMap(/Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap)
+[2023.03.12-13.42.13:127][504]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.03.12-13.42.13:127][504]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.03.12-13.42.13:127][504]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.03.12-13.42.13:634][565]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.03.12-13.42.13:635][565]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.03.12-13.42.13:635][565]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.12-13.42.13:635][565]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.12-13.42.13:635][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.12-13.42.13:635][565]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.03.12-13.42.13:710][565]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.12-13.42.13:712][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.03.12-13.42.13:715][565]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.12-13.42.13:718][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003160s)
+[2023.03.12-13.42.13:718][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003190s)
+[2023.03.12-13.42.13:718][565]LogAudio: Display: Audio Device (ID: 32) registered with world 'FirstPersonMap'.
+[2023.03.12-13.42.13:718][565]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.12-13.42.13:718][565]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.03.12-13.42.13:719][565]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.12-13.42.13:719][565]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.12-13.42.13:719][565]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.12-13.42.13:719][565]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.03.12-13.42.13:719][565]LogWorldPartition: Display: WorldPartition initialize took 744 us (total: 285 ms)
+[2023.03.12-13.42.13:719][565]LogPlayLevel: PIE: World Init took: (0.001369s)
+[2023.03.12-13.42.13:719][565]LogLoad: Game class is 'GM_TargetGame_C'
+[2023.03.12-13.42.13:720][565]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.03.12-14.42.13
+[2023.03.12-13.42.13:720][565]LogWorld: Bringing up level for play took: 0.001063
+[2023.03.12-13.42.13:722][565]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.03.12-13.42.13:722][565]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.03.12-13.42.13:722][565]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1420.000 Y=650.000 Z=98.338
+[2023.03.12-13.42.13:722][565]LogLoad: Took 0.086790 seconds to LoadMap(/Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap)
+[2023.03.12-13.42.16:641][914]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.03.12-13.42.16:641][914]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.03.12-13.42.16:641][914]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.03.12-13.42.17:316][995]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.03.12-13.42.17:316][995]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.03.12-13.42.17:316][995]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.12-13.42.17:317][995]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.12-13.42.17:317][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.12-13.42.17:317][995]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.03.12-13.42.17:380][995]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.12-13.42.17:382][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.03.12-13.42.17:386][995]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.12-13.42.17:389][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003234s)
+[2023.03.12-13.42.17:389][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003262s)
+[2023.03.12-13.42.17:389][995]LogAudio: Display: Audio Device (ID: 32) registered with world 'FirstPersonMap'.
+[2023.03.12-13.42.17:389][995]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.12-13.42.17:389][995]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.03.12-13.42.17:389][995]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.12-13.42.17:390][995]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.12-13.42.17:390][995]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.12-13.42.17:390][995]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.03.12-13.42.17:390][995]LogWorldPartition: Display: WorldPartition initialize took 771 us (total: 286 ms)
+[2023.03.12-13.42.17:390][995]LogPlayLevel: PIE: World Init took: (0.001440s)
+[2023.03.12-13.42.17:390][995]LogLoad: Game class is 'GM_TargetGame_C'
+[2023.03.12-13.42.17:391][995]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.03.12-14.42.17
+[2023.03.12-13.42.17:391][995]LogWorld: Bringing up level for play took: 0.001102
+[2023.03.12-13.42.17:393][995]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.03.12-13.42.17:393][995]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.03.12-13.42.17:393][995]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1420.000 Y=650.000 Z=98.338
+[2023.03.12-13.42.17:393][995]LogLoad: Took 0.076983 seconds to LoadMap(/Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap)
+[2023.03.12-13.42.17:779][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.12-13.42.17:779][ 37]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.12-13.42.17:779][ 37]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.12-13.42.17:779][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.12-13.42.17:779][ 37]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.03.12-13.42.17:782][ 37]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.12-13.42.17:786][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.12-13.42.17:826][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.12-13.42.17:827][ 37]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.03.12-13.42.17:828][ 37]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.03.12-13.42.17:833][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.03.12-13.42.17:863][ 38]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.03.12-13.42.30:734][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.12-13.42.30:761][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WP_EndScreen" FILE="../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset" SILENT=true
+[2023.03.12-13.42.30:764][420]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WP_EndScreen
+[2023.03.12-13.42.30:765][420]LogSavePackage: Moving '../../../../../../Users/Sonia/Documents/GitHub/UE5/Saved/WP_EndScreenC7627046421D59FF8FBC37900202343D.tmp' to '../../../../../../Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/WP_EndScreen.uasset'
+[2023.03.12-13.42.30:769][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 3.93 sec)
+[2023.03.12-13.42.30:776][420]AssetCheck: New page: Asset Save: WP_EndScreen
+[2023.03.12-13.42.30:776][420]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WP_EndScreen.WP_EndScreen
