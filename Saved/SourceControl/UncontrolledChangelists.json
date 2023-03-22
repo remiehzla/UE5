@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/remie/Documents/UE5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/BP_Multiplayer.uasset",
+				"C:/Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_UI.uasset",
+				"C:/Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset",
+				"C:/Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Sonia/Documents/GitHub/UE5/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Sonia/Documents/GitHub/UE5/Content/FirstPerson/Blueprints/BP_Target.uasset",
