@@ -2918,3 +2918,959 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.01-08.34.05:972][617]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 4.75 sec)
 [2023.04.01-08.34.05:981][617]AssetCheck: New page: Asset Save: WBP_CreateSession
 [2023.04.01-08.34.05:981][617]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-08.36.13:197][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-08.36.13:282][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-08.36.13:289][508]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-08.36.13:290][508]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSessionC7587D2A4C4EDA2DAFF13384EB1FD410.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-08.36.13:298][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 4.85 sec)
+[2023.04.01-08.36.13:319][508]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-08.36.13:319][508]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-08.36.13:411][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-08.36.13:502][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-08.36.13:509][519]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-08.36.13:509][519]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSessionA7B10700469008BCE80DA09943C8368B.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-08.36.13:518][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 4.96 sec)
+[2023.04.01-08.36.13:530][519]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-08.36.13:530][519]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-08.36.13:606][528]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-08.36.13:698][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-08.36.13:705][528]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-08.36.13:706][528]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSession587707024D6600354BC2D1820C1E413D.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-08.36.13:715][528]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 5.07 sec)
+[2023.04.01-08.36.13:728][528]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-08.36.13:728][528]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-08.38.48:356][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-08.38.48:424][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-08.38.48:429][448]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-08.38.48:430][448]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSessionDB748E0A498498C1746BD09D9491BA2D.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-08.38.48:437][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 5.15 sec)
+[2023.04.01-08.38.48:449][448]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-08.38.48:449][448]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-08.38.48:576][463]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-08.38.48:660][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-08.38.48:665][463]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-08.38.48:665][463]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSession1375C5294623AB8C0F346ABE21D74C80.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-08.38.48:672][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 5.24 sec)
+[2023.04.01-08.38.48:681][463]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-08.38.48:681][463]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-08.38.50:280][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2023.04.01-08.39.00:151][507]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.04.01-08.39.00:156][507]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.04.01-08.39.00:162][507]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.04.01-08.39.00:171][508]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.04.01-08.39.15:322][ 53]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_FindSession
+[2023.04.01-08.39.15:328][ 53]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.04.01-08.39.16:240][161]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession
+[2023.04.01-08.39.16:240][161]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.01-08.39.16:257][161]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.01-08.39.16:667][161]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-08.39.16:667][161]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-08.39.19:205][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.04.01-08.39.20:399][455]LogSlate: Window 'Save Content' being destroyed
+[2023.04.01-08.39.20:406][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-08.39.20:500][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_FindSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset" SILENT=true
+[2023.04.01-08.39.20:503][455]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_FindSession
+[2023.04.01-08.39.20:503][455]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_FindSession04F0481A4BDA88604E6FBC8A833D0A70.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset'
+[2023.04.01-08.39.20:512][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 5.35 sec)
+[2023.04.01-08.39.20:522][455]AssetCheck: New page: Asset Save: WBP_FindSession
+[2023.04.01-08.39.20:522][455]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession
+[2023.04.01-08.42.10:655][645]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-08.42.10:655][645]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-08.42.42:025][629]BlueprintLog: New page: Compile WBP_FindSession
+[2023.04.01-08.42.42:088][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.04.01-08.42.42:094][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-08.42.42:165][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_FindSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset" SILENT=true
+[2023.04.01-08.42.42:169][629]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_FindSession
+[2023.04.01-08.42.42:169][629]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_FindSession6ECABF1B4937A7317F0E16A3AE99A7DD.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset'
+[2023.04.01-08.42.42:175][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 5.43 sec)
+[2023.04.01-08.42.42:185][629]AssetCheck: New page: Asset Save: WBP_FindSession
+[2023.04.01-08.42.42:185][629]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession
+[2023.04.01-08.42.44:185][859]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-08.42.44:185][859]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-08.43.14:979][596]BlueprintLog: New page: Compile WBP_FindSession
+[2023.04.01-08.43.15:045][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.04.01-08.43.15:052][596]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-08.43.15:125][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_FindSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset" SILENT=true
+[2023.04.01-08.43.15:128][596]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_FindSession
+[2023.04.01-08.43.15:129][596]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_FindSession7D659EC04529643580B9DDB9E23CA93C.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset'
+[2023.04.01-08.43.15:136][596]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 5.51 sec)
+[2023.04.01-08.43.15:144][596]AssetCheck: New page: Asset Save: WBP_FindSession
+[2023.04.01-08.43.15:144][596]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession
+[2023.04.01-08.43.16:859][790]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-08.43.16:859][790]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-08.43.49:138][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.04.01-08.43.49:139][734]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/MainMenu' took 0.050
+[2023.04.01-08.43.49:139][734]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/WBP_FindSession] ([2] browsable assets)...
+[2023.04.01-08.43.49:143][734]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession]
+[2023.04.01-08.43.49:143][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/WBP_FindSession]
+[2023.04.01-08.43.49:146][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/WBP_FindSession_Auto1
+[2023.04.01-08.43.49:146][734]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_FindSession_Auto1E028734A4EBA602996EC359370785BA4.tmp' to '../../../../../../Users/remie/Documents/UE5/Saved/Autosaves/Game/FirstPerson/Blueprints/WBP_FindSession_Auto1.uasset'
+[2023.04.01-08.43.49:147][734]LogFileHelpers: Auto-saving content packages took 0.008
+[2023.04.01-08.45.35:555][ 68]BlueprintLog: New page: Compile WBP_FindSession
+[2023.04.01-08.45.35:615][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.04.01-08.45.35:711][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-08.45.35:798][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_FindSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset" SILENT=true
+[2023.04.01-08.45.35:801][ 68]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_FindSession
+[2023.04.01-08.45.35:802][ 68]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_FindSessionF076892C42BD10D7656CA899BC6B256A.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset'
+[2023.04.01-08.45.35:809][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 5.61 sec)
+[2023.04.01-08.45.35:827][ 68]AssetCheck: New page: Asset Save: WBP_FindSession
+[2023.04.01-08.45.35:827][ 68]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession
+[2023.04.01-08.45.42:925][883]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-08.45.42:925][883]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-08.48.20:643][235]BlueprintLog: New page: Compile WBP_FindSession
+[2023.04.01-08.48.20:709][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.04.01-08.48.20:715][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-08.48.20:786][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_FindSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset" SILENT=true
+[2023.04.01-08.48.20:789][235]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_FindSession
+[2023.04.01-08.48.20:790][235]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_FindSession78B5A8FC477B9C54BCCBA985D1BB6303.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset'
+[2023.04.01-08.48.20:796][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 5.69 sec)
+[2023.04.01-08.48.20:805][235]AssetCheck: New page: Asset Save: WBP_FindSession
+[2023.04.01-08.48.20:805][235]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession
+[2023.04.01-08.48.28:515][149]LogContentBrowser: Attempting asset rename: WBP_FindSession -> WBP_JoinSession
+[2023.04.01-08.48.28:553][149]LogMetaData: Removing '/Game/FirstPerson/Blueprints/WBP_JoinSession.SKEL_WBP_JoinSession_C' ref from Metadata '/Game/FirstPerson/Blueprints/WBP_FindSession.PackageMetaData'
+[2023.04.01-08.48.28:553][149]LogMetaData: Removing '/Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession_C' ref from Metadata '/Game/FirstPerson/Blueprints/WBP_FindSession.PackageMetaData'
+[2023.04.01-08.48.28:553][149]LogMetaData: Removing '/Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession:EventGraph.K2Node_Event_0' ref from Metadata '/Game/FirstPerson/Blueprints/WBP_FindSession.PackageMetaData'
+[2023.04.01-08.48.28:553][149]LogMetaData: Removing '/Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession:EventGraph.K2Node_Event_1' ref from Metadata '/Game/FirstPerson/Blueprints/WBP_FindSession.PackageMetaData'
+[2023.04.01-08.48.28:553][149]LogMetaData: Removing '/Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession:EventGraph.K2Node_Event_2' ref from Metadata '/Game/FirstPerson/Blueprints/WBP_FindSession.PackageMetaData'
+[2023.04.01-08.48.28:553][149]LogMetaData: Removing '/Game/FirstPerson/Blueprints/WBP_JoinSession.SKEL_WBP_JoinSession_C:BndEvt__WBP_FindSession_CreateSession_Button_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/FirstPerson/Blueprints/WBP_FindSession.PackageMetaData'
+[2023.04.01-08.48.28:555][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-08.48.28:632][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_JoinSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset" SILENT=true
+[2023.04.01-08.48.28:635][149]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_JoinSession
+[2023.04.01-08.48.28:635][149]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_JoinSessionD166C5B448C758D9A4FFC990A74A6B2C.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset'
+[2023.04.01-08.48.28:643][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 5.78 sec)
+[2023.04.01-08.48.28:709][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.04.01-08.48.28:754][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.04.01-08.48.28:799][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.04.01-08.48.28:808][149]AssetCheck: New page: Asset Save: WBP_JoinSession
+[2023.04.01-08.48.28:808][149]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession
+[2023.04.01-08.48.29:223][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-08.48.29:303][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_JoinSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset" SILENT=true
+[2023.04.01-08.48.29:306][198]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_JoinSession
+[2023.04.01-08.48.29:306][198]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_JoinSession3A87A00D47986C400434A8AF6B5E4643.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset'
+[2023.04.01-08.48.29:313][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 5.87 sec)
+[2023.04.01-08.48.29:322][198]AssetCheck: New page: Asset Save: WBP_JoinSession
+[2023.04.01-08.48.29:322][198]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession
+[2023.04.01-08.48.30:506][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.04.01-08.48.31:774][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.04.01-08.50.33:708][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-08.50.33:777][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_JoinSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset" SILENT=true
+[2023.04.01-08.50.33:780][483]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_JoinSession
+[2023.04.01-08.50.33:781][483]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_JoinSession0C245A38475D120795BC5C9D811340E0.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset'
+[2023.04.01-08.50.33:787][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 5.95 sec)
+[2023.04.01-08.50.33:798][483]AssetCheck: New page: Asset Save: WBP_JoinSession
+[2023.04.01-08.50.33:798][483]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession
+[2023.04.01-08.50.35:808][721]BlueprintLog: New page: Compile WBP_JoinSession
+[2023.04.01-08.50.35:870][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.04.01-08.50.38:104][979]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-08.50.38:104][979]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-08.50.42:119][430]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-08.50.42:119][430]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-08.50.51:774][562]BlueprintLog: New page: Compile WBP_JoinSession
+[2023.04.01-08.50.51:834][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.04.01-08.50.51:927][562]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-08.50.52:000][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_JoinSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset" SILENT=true
+[2023.04.01-08.50.52:003][562]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_JoinSession
+[2023.04.01-08.50.52:005][562]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_JoinSession35AD81874F2B98F298F067995F72BA56.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset'
+[2023.04.01-08.50.52:010][562]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 6.03 sec)
+[2023.04.01-08.50.52:028][562]AssetCheck: New page: Asset Save: WBP_JoinSession
+[2023.04.01-08.50.52:028][562]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession
+[2023.04.01-08.51.00:095][516]LogContentBrowser: Attempting asset rename: WBP_JoinSession -> WBP_FindSession
+[2023.04.01-08.51.00:113][516]LogMetaData: Removing '/Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession_C' ref from Metadata '/Game/FirstPerson/Blueprints/WBP_JoinSession.PackageMetaData'
+[2023.04.01-08.51.00:113][516]LogMetaData: Removing '/Game/FirstPerson/Blueprints/WBP_FindSession.SKEL_WBP_FindSession_C' ref from Metadata '/Game/FirstPerson/Blueprints/WBP_JoinSession.PackageMetaData'
+[2023.04.01-08.51.00:113][516]LogMetaData: Removing '/Game/FirstPerson/Blueprints/WBP_FindSession.SKEL_WBP_FindSession_C:BndEvt__WBP_FindSession_CreateSession_Button_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/FirstPerson/Blueprints/WBP_JoinSession.PackageMetaData'
+[2023.04.01-08.51.00:113][516]LogMetaData: Removing '/Game/FirstPerson/Blueprints/WBP_FindSession.SKEL_WBP_FindSession_C:Construct' ref from Metadata '/Game/FirstPerson/Blueprints/WBP_JoinSession.PackageMetaData'
+[2023.04.01-08.51.00:113][516]LogMetaData: Removing '/Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession_C:Construct' ref from Metadata '/Game/FirstPerson/Blueprints/WBP_JoinSession.PackageMetaData'
+[2023.04.01-08.51.00:114][516]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-08.51.00:186][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_FindSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset" SILENT=true
+[2023.04.01-08.51.00:189][516]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_FindSession
+[2023.04.01-08.51.00:189][516]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_FindSessionF792BA7D458170E2F7D219A76A4B5654.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset'
+[2023.04.01-08.51.00:195][516]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 6.12 sec)
+[2023.04.01-08.51.00:257][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.04.01-08.51.00:302][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.04.01-08.51.00:347][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.04.01-08.51.00:358][516]AssetCheck: New page: Asset Save: WBP_FindSession
+[2023.04.01-08.51.00:358][516]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession
+[2023.04.01-08.51.13:807][ 13]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-08.51.13:807][ 13]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-08.51.14:544][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-08.51.14:611][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_FindSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset" SILENT=true
+[2023.04.01-08.51.14:614][ 98]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_FindSession
+[2023.04.01-08.51.14:615][ 98]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_FindSession047271EF44D7160CE90DF4890F41DA1A.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset'
+[2023.04.01-08.51.14:620][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 6.19 sec)
+[2023.04.01-08.51.14:629][ 98]AssetCheck: New page: Asset Save: WBP_FindSession
+[2023.04.01-08.51.14:629][ 98]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession
+[2023.04.01-08.51.27:992][538]BlueprintLog: New page: Compile WBP_FindSession
+[2023.04.01-08.51.28:058][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.04.01-08.51.28:065][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-08.51.28:135][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_FindSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset" SILENT=true
+[2023.04.01-08.51.28:137][538]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_FindSession
+[2023.04.01-08.51.28:138][538]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_FindSessionEF75785A484EEF7D297A4383A3B86482.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset'
+[2023.04.01-08.51.28:144][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 6.27 sec)
+[2023.04.01-08.51.28:154][538]AssetCheck: New page: Asset Save: WBP_FindSession
+[2023.04.01-08.51.28:154][538]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession
+[2023.04.01-08.51.29:786][726]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-08.51.29:786][726]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-08.55.10:443][980]BlueprintLog: New page: Compile WBP_FindSession
+[2023.04.01-08.55.10:445][980]LogBlueprint: Error: [AssetLog] C:\Users\remie\Documents\UE5\Content\FirstPerson\Blueprints\WBP_FindSession.uasset: [Compiler] This blueprint (self) is not a PanelWidget, therefore ' Target ' must have a connection.
+[2023.04.01-08.55.10:512][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.04.01-08.55.10:523][980]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-08.55.10:592][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_FindSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset" SILENT=true
+[2023.04.01-08.55.10:598][980]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_FindSession
+[2023.04.01-08.55.10:598][980]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_FindSessionBD67419A4E5B5DCDA3A03AB7EF192F92.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset'
+[2023.04.01-08.55.10:604][980]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 6.35 sec)
+[2023.04.01-08.55.10:614][980]AssetCheck: New page: Asset Save: WBP_FindSession
+[2023.04.01-08.55.10:614][980]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession
+[2023.04.01-08.57.09:290][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.04.01-08.57.09:298][256]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/MainMenu' took 0.080
+[2023.04.01-08.57.09:299][256]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/WBP_FindSession] ([2] browsable assets)...
+[2023.04.01-08.57.09:303][256]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession]
+[2023.04.01-08.57.09:303][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/WBP_FindSession]
+[2023.04.01-08.57.09:306][256]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/WBP_FindSession_Auto2
+[2023.04.01-08.57.09:306][256]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_FindSession_Auto2988862184145C6589F37CB881821B230.tmp' to '../../../../../../Users/remie/Documents/UE5/Saved/Autosaves/Game/FirstPerson/Blueprints/WBP_FindSession_Auto2.uasset'
+[2023.04.01-08.57.09:307][256]LogFileHelpers: Auto-saving content packages took 0.010
+[2023.04.01-08.58.21:190][857]BlueprintLog: New page: Compile WBP_FindSession
+[2023.04.01-08.58.21:192][857]LogBlueprint: Error: [AssetLog] C:\Users\remie\Documents\UE5\Content\FirstPerson\Blueprints\WBP_FindSession.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.04.01-08.58.21:259][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.04.01-08.58.21:269][857]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-08.58.21:363][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_FindSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset" SILENT=true
+[2023.04.01-08.58.21:369][857]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_FindSession
+[2023.04.01-08.58.21:369][857]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_FindSessionC06CBA454D25AA78D997BE86F9A2FD38.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset'
+[2023.04.01-08.58.21:377][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 6.46 sec)
+[2023.04.01-08.58.21:389][857]AssetCheck: New page: Asset Save: WBP_FindSession
+[2023.04.01-08.58.21:389][857]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession
+[2023.04.01-08.58.35:849][158]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.04.01-08.58.35:855][158]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.04.01-08.58.35:860][158]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.04.01-08.58.35:870][159]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.04.01-08.58.43:148][ 33]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_JoinSession
+[2023.04.01-08.58.43:154][ 33]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.04.01-08.58.46:065][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.04.01-08.58.47:155][360]LogSlate: Window 'Save Content' being destroyed
+[2023.04.01-08.58.47:161][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-08.58.47:243][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_JoinSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset" SILENT=true
+[2023.04.01-08.58.47:245][360]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_JoinSession
+[2023.04.01-08.58.47:245][360]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_JoinSession13143F0F4ADC1BB20FAE3D85A2EBB0A1.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset'
+[2023.04.01-08.58.47:253][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 6.55 sec)
+[2023.04.01-08.58.47:263][360]AssetCheck: New page: Asset Save: WBP_JoinSession
+[2023.04.01-08.58.47:263][360]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession
+[2023.04.01-08.58.48:083][442]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession
+[2023.04.01-08.58.48:084][442]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.01-08.58.48:093][442]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.01-08.58.48:451][442]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-08.58.48:451][442]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-08.58.53:379][ 19]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-08.58.53:379][ 19]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-08.59.16:325][661]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-08.59.16:398][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_JoinSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset" SILENT=true
+[2023.04.01-08.59.16:401][661]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_JoinSession
+[2023.04.01-08.59.16:402][661]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_JoinSession549DEE5F4B01006E4F577680F749F426.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset'
+[2023.04.01-08.59.16:408][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 6.64 sec)
+[2023.04.01-08.59.16:417][661]AssetCheck: New page: Asset Save: WBP_JoinSession
+[2023.04.01-08.59.16:417][661]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession
+[2023.04.01-08.59.17:606][804]BlueprintLog: New page: Compile WBP_JoinSession
+[2023.04.01-08.59.17:680][804]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.04.01-09.00.08:639][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.00.08:715][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_JoinSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset" SILENT=true
+[2023.04.01-09.00.08:719][ 71]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_JoinSession
+[2023.04.01-09.00.08:719][ 71]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_JoinSession94B9BD6049D978973EDF458F4E5AA2AD.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset'
+[2023.04.01-09.00.08:726][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 6.73 sec)
+[2023.04.01-09.00.08:736][ 71]AssetCheck: New page: Asset Save: WBP_JoinSession
+[2023.04.01-09.00.08:736][ 71]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession
+[2023.04.01-09.00.08:859][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.00.08:941][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_JoinSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset" SILENT=true
+[2023.04.01-09.00.08:945][ 86]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_JoinSession
+[2023.04.01-09.00.08:946][ 86]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_JoinSession84E16D8B40FE86772845BCAB26981C26.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset'
+[2023.04.01-09.00.08:953][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 6.82 sec)
+[2023.04.01-09.00.08:962][ 86]AssetCheck: New page: Asset Save: WBP_JoinSession
+[2023.04.01-09.00.08:962][ 86]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession
+[2023.04.01-09.00.40:014][714]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.00.40:102][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_JoinSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset" SILENT=true
+[2023.04.01-09.00.40:106][714]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_JoinSession
+[2023.04.01-09.00.40:108][714]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_JoinSessionE9E3EACB4A29E215D019DFBEB163711B.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset'
+[2023.04.01-09.00.40:113][714]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 6.92 sec)
+[2023.04.01-09.00.40:124][714]AssetCheck: New page: Asset Save: WBP_JoinSession
+[2023.04.01-09.00.40:124][714]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession
+[2023.04.01-09.00.40:156][718]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.00.40:238][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_JoinSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset" SILENT=true
+[2023.04.01-09.00.40:243][718]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_JoinSession
+[2023.04.01-09.00.40:244][718]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_JoinSession5D2B939A456D8EC550C986B118480E25.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset'
+[2023.04.01-09.00.40:251][718]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 7.01 sec)
+[2023.04.01-09.00.40:261][718]AssetCheck: New page: Asset Save: WBP_JoinSession
+[2023.04.01-09.00.40:261][718]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession
+[2023.04.01-09.01.55:234][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.01.55:322][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_JoinSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset" SILENT=true
+[2023.04.01-09.01.55:327][477]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_JoinSession
+[2023.04.01-09.01.55:327][477]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_JoinSessionECAB10524786CA30008CE8ABA3795767.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset'
+[2023.04.01-09.01.55:334][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 7.11 sec)
+[2023.04.01-09.01.55:343][477]AssetCheck: New page: Asset Save: WBP_JoinSession
+[2023.04.01-09.01.55:343][477]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession
+[2023.04.01-09.01.55:383][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.01.55:469][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_JoinSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset" SILENT=true
+[2023.04.01-09.01.55:474][480]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_JoinSession
+[2023.04.01-09.01.55:474][480]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_JoinSessionD27427A64A22F890CEB8CCAF7C8A3247.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset'
+[2023.04.01-09.01.55:481][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 7.21 sec)
+[2023.04.01-09.01.55:489][480]AssetCheck: New page: Asset Save: WBP_JoinSession
+[2023.04.01-09.01.55:489][480]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession
+[2023.04.01-09.01.57:094][577]BlueprintLog: New page: Compile WBP_JoinSession
+[2023.04.01-09.01.57:096][577]LogBlueprint: Error: [AssetLog] C:\Users\remie\Documents\UE5\Content\FirstPerson\Blueprints\WBP_JoinSession.uasset: [Compiler] The current value of the ' Search Result ' pin is invalid: 'Search Result' in action 'Join Session' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2023.04.01-09.01.57:176][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.04.01-09.02.03:081][605]BlueprintLog: New page: Compile WBP_JoinSession
+[2023.04.01-09.02.03:084][605]LogBlueprint: Error: [AssetLog] C:\Users\remie\Documents\UE5\Content\FirstPerson\Blueprints\WBP_JoinSession.uasset: [Compiler] The current value of the ' Search Result ' pin is invalid: 'Search Result' in action 'Join Session' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2023.04.01-09.02.03:172][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.04.01-09.02.17:861][463]BlueprintLog: New page: Compile WBP_JoinSession
+[2023.04.01-09.02.17:930][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.04.01-09.02.17:940][463]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.02.18:019][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_JoinSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset" SILENT=true
+[2023.04.01-09.02.18:025][463]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_JoinSession
+[2023.04.01-09.02.18:025][463]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_JoinSession70D356414392C318AE8F27B0FFB2BE68.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset'
+[2023.04.01-09.02.18:031][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 7.30 sec)
+[2023.04.01-09.02.18:042][463]AssetCheck: New page: Asset Save: WBP_JoinSession
+[2023.04.01-09.02.18:042][463]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession
+[2023.04.01-09.03.49:224][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.04.01-09.03.50:636][120]LogSlate: Window 'Save Content' being destroyed
+[2023.04.01-09.03.50:644][120]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.03.50:734][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_JoinSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset" SILENT=true
+[2023.04.01-09.03.50:739][120]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_JoinSession
+[2023.04.01-09.03.50:740][120]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_JoinSession570452C14340B52A29E23CB7ADEB1B35.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset'
+[2023.04.01-09.03.50:748][120]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 7.40 sec)
+[2023.04.01-09.03.50:759][120]AssetCheck: New page: Asset Save: WBP_JoinSession
+[2023.04.01-09.03.50:759][120]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession
+[2023.04.01-09.05.11:680][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.05.11:767][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_JoinSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset" SILENT=true
+[2023.04.01-09.05.11:773][719]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_JoinSession
+[2023.04.01-09.05.11:774][719]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_JoinSessionBF1338FE4B3040EA0F9186B7C345AC0D.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset'
+[2023.04.01-09.05.11:780][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 7.50 sec)
+[2023.04.01-09.05.11:789][719]AssetCheck: New page: Asset Save: WBP_JoinSession
+[2023.04.01-09.05.11:789][719]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession
+[2023.04.01-09.05.11:896][726]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.05.11:979][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_JoinSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset" SILENT=true
+[2023.04.01-09.05.11:984][726]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_JoinSession
+[2023.04.01-09.05.11:984][726]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_JoinSessionAC62620E41E721B7A38E498409F006AF.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset'
+[2023.04.01-09.05.11:992][726]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 7.60 sec)
+[2023.04.01-09.05.12:000][726]AssetCheck: New page: Asset Save: WBP_JoinSession
+[2023.04.01-09.05.12:000][726]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession
+[2023.04.01-09.11.06:240][123]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.11.06:323][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_JoinSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset" SILENT=true
+[2023.04.01-09.11.06:328][123]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_JoinSession
+[2023.04.01-09.11.06:328][123]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_JoinSession288FBC6E41E911268D6EE39A610056C8.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset'
+[2023.04.01-09.11.06:336][123]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 7.70 sec)
+[2023.04.01-09.11.06:348][123]AssetCheck: New page: Asset Save: WBP_JoinSession
+[2023.04.01-09.11.06:348][123]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession
+[2023.04.01-09.11.06:421][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.11.06:505][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_JoinSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset" SILENT=true
+[2023.04.01-09.11.06:511][128]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_JoinSession
+[2023.04.01-09.11.06:511][128]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_JoinSession8B799A86459FD22C27B1FD911B902E9D.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset'
+[2023.04.01-09.11.06:518][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 7.79 sec)
+[2023.04.01-09.11.06:527][128]AssetCheck: New page: Asset Save: WBP_JoinSession
+[2023.04.01-09.11.06:527][128]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession
+[2023.04.01-09.11.13:784][531]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.01-09.11.13:784][531]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.01-09.11.13:784][531]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.01-09.12.05:778][450]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2023.04.01-09.12.05:780][450]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/MainMenu' took 0.089
+[2023.04.01-09.12.05:780][450]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/WBP_FindSession] ([2] browsable assets)...
+[2023.04.01-09.12.05:786][450]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession]
+[2023.04.01-09.12.05:786][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/WBP_FindSession]
+[2023.04.01-09.12.05:792][450]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/WBP_FindSession_Auto3
+[2023.04.01-09.12.05:792][450]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_FindSession_Auto352BFF15D43A3D6D94B42DDA103F077F7.tmp' to '../../../../../../Users/remie/Documents/UE5/Saved/Autosaves/Game/FirstPerson/Blueprints/WBP_FindSession_Auto3.uasset'
+[2023.04.01-09.12.05:792][450]LogFileHelpers: Auto-saving content packages took 0.012
+[2023.04.01-09.13.17:255][  6]BlueprintLog: New page: Compile WBP_FindSession
+[2023.04.01-09.13.17:335][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.04.01-09.13.17:343][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.13.17:435][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_FindSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset" SILENT=true
+[2023.04.01-09.13.17:440][  6]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_FindSession
+[2023.04.01-09.13.17:440][  6]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_FindSessionAAE186F0411F10BD1E12D2B16C8A1CD0.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset'
+[2023.04.01-09.13.17:447][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 7.90 sec)
+[2023.04.01-09.13.17:456][  6]AssetCheck: New page: Asset Save: WBP_FindSession
+[2023.04.01-09.13.17:456][  6]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession
+[2023.04.01-09.14.29:579][631]LogEditorTransaction: Undo Move Node
+[2023.04.01-09.14.39:835][ 39]BlueprintLog: New page: Compile WBP_JoinSession
+[2023.04.01-09.14.40:014][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2023.04.01-09.14.40:034][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.14.40:154][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_JoinSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset" SILENT=true
+[2023.04.01-09.14.40:170][ 39]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_JoinSession
+[2023.04.01-09.14.40:171][ 39]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_JoinSessionF6515DF747F5624E72DAEBA8D506ADFF.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset'
+[2023.04.01-09.14.40:200][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 8.06 sec)
+[2023.04.01-09.14.40:243][ 39]AssetCheck: New page: Asset Save: WBP_JoinSession
+[2023.04.01-09.14.40:243][ 39]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession
+[2023.04.01-09.14.41:024][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.14.41:156][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_JoinSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset" SILENT=true
+[2023.04.01-09.14.41:167][ 63]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_JoinSession
+[2023.04.01-09.14.41:168][ 63]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_JoinSession3F9C9ACD4225AA7AB3AFF9879B6638A1.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset'
+[2023.04.01-09.14.41:187][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 8.23 sec)
+[2023.04.01-09.14.41:218][ 63]AssetCheck: New page: Asset Save: WBP_JoinSession
+[2023.04.01-09.14.41:218][ 63]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession
+[2023.04.01-09.14.43:060][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.14.43:149][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_FindSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset" SILENT=true
+[2023.04.01-09.14.43:154][115]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_FindSession
+[2023.04.01-09.14.43:154][115]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_FindSession1F60FF80401668EA3E0B4DAB22553091.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset'
+[2023.04.01-09.14.43:161][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 8.33 sec)
+[2023.04.01-09.14.43:170][115]AssetCheck: New page: Asset Save: WBP_FindSession
+[2023.04.01-09.14.43:170][115]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession
+[2023.04.01-09.14.43:244][120]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.14.43:328][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_FindSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset" SILENT=true
+[2023.04.01-09.14.43:333][120]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_FindSession
+[2023.04.01-09.14.43:334][120]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_FindSession07BBE3404EEE03645B1F7084F757E80A.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset'
+[2023.04.01-09.14.43:340][120]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 8.42 sec)
+[2023.04.01-09.14.43:349][120]AssetCheck: New page: Asset Save: WBP_FindSession
+[2023.04.01-09.14.43:349][120]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession
+[2023.04.01-09.14.46:907][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.14.46:970][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_FindSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset" SILENT=true
+[2023.04.01-09.14.46:975][332]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_FindSession
+[2023.04.01-09.14.46:975][332]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_FindSession2CBFFFE149AE5888839DFC8F5BEA7696.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset'
+[2023.04.01-09.14.46:982][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 8.50 sec)
+[2023.04.01-09.14.46:991][332]AssetCheck: New page: Asset Save: WBP_FindSession
+[2023.04.01-09.14.46:991][332]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession
+[2023.04.01-09.14.47:081][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.14.47:167][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_FindSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset" SILENT=true
+[2023.04.01-09.14.47:171][338]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_FindSession
+[2023.04.01-09.14.47:173][338]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_FindSession5EB7A49D424BB2BFF7821FA471355048.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset'
+[2023.04.01-09.14.47:179][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 8.60 sec)
+[2023.04.01-09.14.47:188][338]AssetCheck: New page: Asset Save: WBP_FindSession
+[2023.04.01-09.14.47:188][338]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession
+[2023.04.01-09.16.13:534][721]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.16.13:608][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_JoinSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset" SILENT=true
+[2023.04.01-09.16.13:613][721]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_JoinSession
+[2023.04.01-09.16.13:613][721]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_JoinSession986B48734E94287FD079BFA45360410A.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_JoinSession.uasset'
+[2023.04.01-09.16.13:623][721]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 8.69 sec)
+[2023.04.01-09.16.13:632][721]AssetCheck: New page: Asset Save: WBP_JoinSession
+[2023.04.01-09.16.13:632][721]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession
+[2023.04.01-09.16.15:933][857]BlueprintLog: New page: Compile WBP_JoinSession
+[2023.04.01-09.16.16:016][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.04.01-09.16.17:509][942]BlueprintLog: New page: Compile WBP_FindSession
+[2023.04.01-09.16.17:582][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.04.01-09.16.20:704][125]BlueprintLog: New page: Compile WBP_CreateSession
+[2023.04.01-09.16.20:762][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.04.01-09.16.23:761][299]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-09.16.23:761][299]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-09.16.31:293][744]LogEditorTransaction: Undo Set Vector Property
+[2023.04.01-09.16.38:547][158]LogEditorTransaction: Undo Edit Padding
+[2023.04.01-09.16.47:886][703]LogDerivedDataCache: C:/Users/remie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.106 and deleted 0 files with total size 0 MiB. Scanned 2690 files in 2668 folders with total size 90 MiB.
+[2023.04.01-09.16.57:937][302]LogEditorTransaction: Undo Set Vector Property
+[2023.04.01-09.17.05:553][734]LogEditorTransaction: Undo Set Vector Property
+[2023.04.01-09.17.07:791][853]LogEditorTransaction: Undo Set Vector Property
+[2023.04.01-09.17.12:059][104]BlueprintLog: New page: Compile WBP_FindSession
+[2023.04.01-09.17.12:131][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.04.01-09.17.12:163][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.17.12:241][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_FindSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset" SILENT=true
+[2023.04.01-09.17.12:247][104]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_FindSession
+[2023.04.01-09.17.12:248][104]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_FindSession80F784E046706F6DB4099ABE5748AA77.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset'
+[2023.04.01-09.17.12:254][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 8.78 sec)
+[2023.04.01-09.17.12:269][104]AssetCheck: New page: Asset Save: WBP_FindSession
+[2023.04.01-09.17.12:269][104]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession
+[2023.04.01-09.17.13:019][146]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.01-09.17.13:024][146]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.01-09.17.13:025][146]PIE: New page: PIE session: MainMenu (1 Apr 2023, 15:17:13)
+[2023.04.01-09.17.13:025][146]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_MainMenu
+[2023.04.01-09.17.13:025][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000759s)
+[2023.04.01-09.17.13:025][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/MainMenu.MainMenu to /Game/FirstPerson/Maps/UEDPIE_0_MainMenu.MainMenu (0.000799s)
+[2023.04.01-09.17.13:026][146]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.01-09.17.13:026][146]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.01-09.17.13:026][146]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2023.04.01-09.17.13:082][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.04.01-09.17.13:084][146]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.04.01-09.17.13:084][146]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.01-09.17.13:084][146]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.01-09.17.13:084][146]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.01-09.17.13:084][146]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.01-09.17.13:084][146]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.01-09.17.13:084][146]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.01-09.17.13:084][146]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.01-09.17.13:084][146]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.01-09.17.13:084][146]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.01-09.17.13:084][146]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.01-09.17.13:084][146]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.01-09.17.13:086][146]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.01-09.17.13:105][146]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio Codec with THX Spatial Audio)
+[2023.04.01-09.17.13:105][146]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.01-09.17.13:105][146]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.01-09.17.13:105][146]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.01-09.17.13:106][146]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.04.01-09.17.13:106][146]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.04.01-09.17.13:108][146]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.04.01-09.17.13:108][146]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.04.01-09.17.13:108][146]LogInit: FAudioDevice initialized.
+[2023.04.01-09.17.13:108][146]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMenu'.
+[2023.04.01-09.17.13:155][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.01-09.17.13:155][146]LogLoad: Game class is 'GM_MainMenu_C'
+[2023.04.01-09.17.13:157][146]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2023.04.01-12.17.13
+[2023.04.01-09.17.13:157][146]LogWorld: Bringing up level for play took: 0.000378
+[2023.04.01-09.17.13:159][146]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.04.01-09.17.13:160][146]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.01-09.17.13:160][146]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.04.01-09.17.13:160][146]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.04.01-09.17.13:160][146]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.04.01-09.17.13:161][146]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2023.04.01-09.17.13:161][146]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.04.01-09.17.13:161][146]LogNet: GameNetDriver IpNetDriver_16 IpNetDriver listening on port 17777
+[2023.04.01-09.17.13:163][146]PIE: Server logged in
+[2023.04.01-09.17.13:164][146]PIE: Play in editor total start time 0,139 seconds.
+[2023.04.01-09.17.13:164][146]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.01-09.17.13:165][146]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2023.04.01-09.17.13:165][146]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.04.01-09.17.13:165][146]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.01-09.17.13:165][146]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.01-09.17.13:165][146]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.01-09.17.13:165][146]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.01-09.17.13:165][146]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.01-09.17.13:165][146]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.01-09.17.13:165][146]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.01-09.17.13:165][146]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.01-09.17.13:165][146]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.01-09.17.13:165][146]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.01-09.17.13:165][146]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.01-09.17.13:167][146]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.01-09.17.13:185][146]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio Codec with THX Spatial Audio)
+[2023.04.01-09.17.13:186][146]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.01-09.17.13:186][146]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.01-09.17.13:186][146]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.01-09.17.13:186][146]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.04.01-09.17.13:186][146]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.04.01-09.17.13:187][146]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.04.01-09.17.13:187][146]LogInit: FAudioDevice initialized.
+[2023.04.01-09.17.13:187][146]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.04.01-09.17.13:187][146]LogAudio: Display: Audio Device (ID: 16) registered with world 'Untitled'.
+[2023.04.01-09.17.13:236][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.01-09.17.13:236][146]LogNet: Browse: 127.0.0.1:17777/Game/FirstPerson/Maps/FirstPersonMap
+[2023.04.01-09.17.13:237][146]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2023.04.01-09.17.13:237][146]LogNet: Created socket for bind address: 0.0.0.0:0
+[2023.04.01-09.17.13:237][146]LogNet: IpConnection_10 setting maximum channels to: 32767
+[2023.04.01-09.17.13:237][146]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.04.01-09.17.13:238][146]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 7
+[2023.04.01-09.17.13:238][146]LogNet: Game client on port 17777, rate 100000
+[2023.04.01-09.17.13:240][146]PIE: Client logged in
+[2023.04.01-09.17.13:242][146]PIE: Play in editor total start time 0,218 seconds.
+[2023.04.01-09.17.13:251][146]LogViewport: Scene viewport resized to 961x570, mode Windowed.
+[2023.04.01-09.17.13:256][146]LogViewport: Scene viewport resized to 641x480, mode Windowed.
+[2023.04.01-09.17.14:270][197]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61970
+[2023.04.01-09.17.14:270][197]LogHandshake: SendConnectChallenge. Timestamp: 1.267368, Cookie: 122221155075059048224197239144039077225143165113076137207100
+[2023.04.01-09.17.14:271][197]LogHandshake: Cached server SessionID: 0
+[2023.04.01-09.17.14:271][197]LogHandshake: SendChallengeResponse. Timestamp: 1.267368, Cookie: 122221155075059048224197239144039077225143165113076137207100
+[2023.04.01-09.17.14:287][198]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61970
+[2023.04.01-09.17.14:287][198]LogHandshake: SendChallengeAck. InCookie: 122221155075059048224197239144039077225143165113076137207100
+[2023.04.01-09.17.14:287][198]LogNet: Server accepting post-challenge connection from: 127.0.0.1:61970
+[2023.04.01-09.17.14:287][198]LogNet: IpConnection_11 setting maximum channels to: 32767
+[2023.04.01-09.17.14:287][198]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.04.01-09.17.14:287][198]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 04/01/23 12:17:14, [UNetConnection] RemoteAddr: 127.0.0.1:61970, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.04.01-09.17.14:287][198]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:61970, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.04.01-09.17.14:287][198]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: PendingNetDriver IpNetDriver_17, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.04.01-09.17.14:303][199]LogNet: NotifyAcceptingChannel Control 0 server World /Game/FirstPerson/Maps/UEDPIE_0_MainMenu.MainMenu: Accepted
+[2023.04.01-09.17.14:303][199]LogNet: Remote platform little endian=1
+[2023.04.01-09.17.14:303][199]LogNet: This platform little endian=1
+[2023.04.01-09.17.14:306][199]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.04.01-09.17.14:320][200]LogNet: Login request: ?Name=LAPTOP-9S5REVEP-8A54EF9042A9925F4B99ED8E3EBDC641 userId: NULL:LAPTOP-9S5REVEP-8A54EF9042A9925F4B99ED8E3EBDC641 platform: NULL
+[2023.04.01-09.17.14:321][200]LogNet: Welcomed by server (Level: /Game/FirstPerson/Maps/UEDPIE_0_MainMenu, Game: /Game/FirstPerson/Blueprints/GM_MainMenu.GM_MainMenu_C)
+[2023.04.01-09.17.14:321][200]LogLoad: LoadMap: 127.0.0.1:17777/Game/FirstPerson/Maps/MainMenu?game=/Game/FirstPerson/Blueprints/GM_MainMenu.GM_MainMenu_C
+[2023.04.01-09.17.14:321][200]LogWorld: BeginTearingDown for /Temp/Untitled_7
+[2023.04.01-09.17.14:321][200]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.04.01-09.17.14:321][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.01-09.17.14:369][200]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.01-09.17.14:371][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.04.01-09.17.14:375][200]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainMenu'.
+[2023.04.01-09.17.14:375][200]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.01-09.17.14:376][200]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2023.04.01-09.17.14:376][200]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 60) at 2023.04.01-12.17.14
+[2023.04.01-09.17.14:376][200]LogWorld: Bringing up level for play took: 0.000159
+[2023.04.01-09.17.14:376][200]LogLoad: Took 0.054801 seconds to LoadMap(/Game/FirstPerson/Maps/MainMenu)
+[2023.04.01-09.17.14:383][201]LogNet: Client netspeed is 100000
+[2023.04.01-09.17.14:383][201]LogNet: Join request: /Game/FirstPerson/Maps/FirstPersonMap?Name=LAPTOP-9S5REVEP-8A54EF9042A9925F4B99ED8E3EBDC641?SplitscreenCount=1
+[2023.04.01-09.17.14:384][201]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.01-09.17.14:384][201]LogNet: Join succeeded: LAPTOP-9S5REVEP-8A54
+[2023.04.01-09.17.15:625][271]LogBlueprintUserMessages: [WBP_CreateSession_C_0] Client 1: Session Created
+[2023.04.01-09.17.15:627][271]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap??listen
+[2023.04.01-09.17.15:627][271]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap??listen
+[2023.04.01-09.17.15:627][271]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_1_MainMenu
+[2023.04.01-09.17.15:627][271]LogNet: World NetDriver shutdown IpNetDriver_17 [GameNetDriver]
+[2023.04.01-09.17.15:627][271]LogNet: DestroyNamedNetDriver IpNetDriver_17 [GameNetDriver]
+[2023.04.01-09.17.15:627][271]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_17, IsServer: NO, PC: PC_PlayerController_C_0, Owner: PC_PlayerController_C_0, UniqueId: NULL:LAPTOP-9S5REVEP-8A54EF9042A9925F4B99ED8E3EBDC641, Channels: 7, Time: 2023.04.01-09.17.15
+[2023.04.01-09.17.15:627][271]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_17, IsServer: NO, PC: PC_PlayerController_C_0, Owner: PC_PlayerController_C_0, UniqueId: NULL:LAPTOP-9S5REVEP-8A54EF9042A9925F4B99ED8E3EBDC641
+[2023.04.01-09.17.15:627][271]LogExit: GameNetDriver IpNetDriver_17 shut down
+[2023.04.01-09.17.15:627][271]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.01-09.17.15:627][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.01-09.17.15:676][271]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.01-09.17.15:678][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.04.01-09.17.15:688][271]LogAudio: Display: Audio Device (ID: 16) registered with world 'FirstPersonMap'.
+[2023.04.01-09.17.15:688][271]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.01-09.17.15:689][271]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.04.01-09.17.15:689][271]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.04.01-09.17.15:689][271]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.01-09.17.15:689][271]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=1 IsGame=0, IsCooking=0)
+[2023.04.01-09.17.15:697][271]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.01-09.17.15:697][271]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.01-09.17.15:697][271]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 61 us)
+[2023.04.01-09.17.15:725][271]LogWorldPartition: Display: GenerateStreaming took 28 ms (total: 243 ms)
+[2023.04.01-09.17.15:727][271]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.04.01-09.17.15:727][271]LogWorldPartition: Display: WorldPartition initialize took 38 ms (total: 683 ms)
+[2023.04.01-09.17.15:727][271]LogPlayLevel: PIE: World Init took: (0.039353s)
+[2023.04.01-09.17.15:727][271]LogLoad: Game class is 'GM_TargetGame_C'
+[2023.04.01-09.17.15:728][271]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.04.01-09.17.15:728][271]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.04.01-09.17.15:728][271]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.04.01-09.17.15:728][271]LogNet: Created socket for bind address: 0.0.0.0:7777
+[2023.04.01-09.17.15:728][271]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.04.01-09.17.15:728][271]LogNet: GameNetDriver IpNetDriver_18 IpNetDriver listening on port 7777
+[2023.04.01-09.17.15:733][271]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_1_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2023.04.01-12.17.15
+[2023.04.01-09.17.15:733][271]LogWorld: Bringing up level for play took: 0.004992
+[2023.04.01-09.17.15:735][271]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.01-09.17.15:735][271]LogLoad: Took 0.108596 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2023.04.01-09.17.15:748][272]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2023.04.01-09.17.15:748][272]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:61970, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: PC_PlayerController_C_1, Owner: PC_PlayerController_C_1, UniqueId: NULL:LAPTOP-9S5REVEP-8A54EF9042A9925F4B99ED8E3EBDC641
+[2023.04.01-09.17.15:748][272]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:61970, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: PC_PlayerController_C_1, Owner: PC_PlayerController_C_1, UniqueId: NULL:LAPTOP-9S5REVEP-8A54EF9042A9925F4B99ED8E3EBDC641, Channels: 7, Time: 2023.04.01-09.17.15
+[2023.04.01-09.17.15:750][272]LogNet: UNetConnection::SendCloseReason:
+[2023.04.01-09.17.15:750][272]LogNet:  - Result=ControlChannelClose, ErrorContext="ControlChannelClose"
+[2023.04.01-09.17.15:750][272]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:61970, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: PC_PlayerController_C_1, Owner: PC_PlayerController_C_1, UniqueId: NULL:LAPTOP-9S5REVEP-8A54EF9042A9925F4B99ED8E3EBDC641
+[2023.04.01-09.17.19:907][517]LogBlueprintUserMessages: [WBP_CreateSession_C_0] Server: Session Created
+[2023.04.01-09.17.19:908][517]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap??listen
+[2023.04.01-09.17.19:908][517]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap??listen
+[2023.04.01-09.17.19:908][517]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_MainMenu
+[2023.04.01-09.17.19:908][517]LogNet: World NetDriver shutdown IpNetDriver_16 [GameNetDriver]
+[2023.04.01-09.17.19:908][517]LogNet: DestroyNamedNetDriver IpNetDriver_16 [GameNetDriver]
+[2023.04.01-09.17.19:908][517]LogExit: GameNetDriver IpNetDriver_16 shut down
+[2023.04.01-09.17.19:909][517]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.01-09.17.19:909][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.01-09.17.19:958][517]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.01-09.17.19:960][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.04.01-09.17.19:967][517]LogAudio: Display: Audio Device (ID: 15) registered with world 'FirstPersonMap'.
+[2023.04.01-09.17.19:967][517]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.01-09.17.19:967][517]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.04.01-09.17.19:968][517]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.04.01-09.17.19:968][517]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.01-09.17.19:968][517]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=1 IsGame=0, IsCooking=0)
+[2023.04.01-09.17.19:975][517]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.01-09.17.19:975][517]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.01-09.17.19:975][517]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 66 us)
+[2023.04.01-09.17.20:003][517]LogWorldPartition: Display: GenerateStreaming took 27 ms (total: 270 ms)
+[2023.04.01-09.17.20:005][517]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.04.01-09.17.20:005][517]LogWorldPartition: Display: WorldPartition initialize took 36 ms (total: 719 ms)
+[2023.04.01-09.17.20:005][517]LogPlayLevel: PIE: World Init took: (0.037242s)
+[2023.04.01-09.17.20:005][517]LogLoad: Game class is 'GM_TargetGame_C'
+[2023.04.01-09.17.20:005][517]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.04.01-09.17.20:005][517]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.04.01-09.17.20:005][517]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.04.01-09.17.20:005][517]LogNet: Created socket for bind address: 0.0.0.0:7778
+[2023.04.01-09.17.20:005][517]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.04.01-09.17.20:005][517]LogNet: GameNetDriver IpNetDriver_19 IpNetDriver listening on port 7778
+[2023.04.01-09.17.20:010][517]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2023.04.01-12.17.20
+[2023.04.01-09.17.20:010][517]LogWorld: Bringing up level for play took: 0.004547
+[2023.04.01-09.17.20:011][517]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.01-09.17.20:012][517]LogLoad: Took 0.103775 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2023.04.01-09.17.22:577][659]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.04.01-09.17.22:577][659]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.01-09.17.22:577][659]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.04.01-09.17.23:078][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.01-09.17.23:078][684]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_1_FirstPersonMap
+[2023.04.01-09.17.23:078][684]LogSlate: Window 'ElectiveY2 Preview [NetMode: Client 1]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.04.01-09.17.23:080][684]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.01-09.17.23:081][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.01-09.17.23:081][684]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.04.01-09.17.23:081][684]LogNet: World NetDriver shutdown IpNetDriver_18 [GameNetDriver]
+[2023.04.01-09.17.23:081][684]LogNet: DestroyNamedNetDriver IpNetDriver_18 [GameNetDriver]
+[2023.04.01-09.17.23:081][684]LogExit: GameNetDriver IpNetDriver_18 shut down
+[2023.04.01-09.17.23:083][684]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.04.01-09.17.23:083][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.01-09.17.23:083][684]LogSlate: Window 'ElectiveY2 Preview [NetMode: Server 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.04.01-09.17.23:088][684]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.01-09.17.23:089][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.01-09.17.23:089][684]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.04.01-09.17.23:090][684]LogNet: World NetDriver shutdown IpNetDriver_19 [GameNetDriver]
+[2023.04.01-09.17.23:090][684]LogNet: DestroyNamedNetDriver IpNetDriver_19 [GameNetDriver]
+[2023.04.01-09.17.23:090][684]LogExit: GameNetDriver IpNetDriver_19 shut down
+[2023.04.01-09.17.23:093][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.01-09.17.23:102][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.01-09.17.23:162][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.04.01-09.17.23:164][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.04.01-09.17.23:168][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.04.01-09.17.23:169][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.04.01-09.17.23:182][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.04.01-09.17.23:204][685]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.04.01-09.17.23:204][685]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.04.01-09.17.24:823][782]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.17.24:901][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_FindSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset" SILENT=true
+[2023.04.01-09.17.24:906][782]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_FindSession
+[2023.04.01-09.17.24:906][782]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_FindSessionEF0380394487AD14ED2FBA8281735062.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset'
+[2023.04.01-09.17.24:913][782]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 8.87 sec)
+[2023.04.01-09.17.24:923][782]AssetCheck: New page: Asset Save: WBP_FindSession
+[2023.04.01-09.17.24:923][782]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession
+[2023.04.01-09.17.25:112][794]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.17.25:186][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_FindSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset" SILENT=true
+[2023.04.01-09.17.25:191][794]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_FindSession
+[2023.04.01-09.17.25:192][794]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_FindSession2E9B493647DFE65EA09CF8ACCD536431.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset'
+[2023.04.01-09.17.25:198][794]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 8.95 sec)
+[2023.04.01-09.17.25:208][794]AssetCheck: New page: Asset Save: WBP_FindSession
+[2023.04.01-09.17.25:208][794]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession
+[2023.04.01-09.17.25:331][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.17.25:411][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_FindSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset" SILENT=true
+[2023.04.01-09.17.25:416][802]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_FindSession
+[2023.04.01-09.17.25:417][802]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_FindSession709B0FE24849677294DF44A65266EA9C.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_FindSession.uasset'
+[2023.04.01-09.17.25:424][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 9.05 sec)
+[2023.04.01-09.17.25:432][802]AssetCheck: New page: Asset Save: WBP_FindSession
+[2023.04.01-09.17.25:432][802]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession
+[2023.04.01-09.17.58:179][769]BlueprintLog: New page: Compile WBP_CreateSession
+[2023.04.01-09.17.58:257][769]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.04.01-09.17.58:272][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.17.58:349][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.17.58:355][769]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.17.58:355][769]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSession9265EA2B4111696382980481C9F98C02.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.17.58:362][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 9.14 sec)
+[2023.04.01-09.17.58:370][769]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.17.58:370][769]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.18.03:534][ 72]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-09.18.03:534][ 72]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-09.18.25:861][358]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2023.04.01-09.18.25:861][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.01-09.18.25:870][358]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2023.04.01-09.18.25:870][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.01-09.18.48:871][720]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2023.04.01-09.18.48:871][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.01-09.18.48:879][720]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2023.04.01-09.18.48:879][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.01-09.18.52:448][927]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession
+[2023.04.01-09.18.52:449][927]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.01-09.18.52:462][927]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.01-09.18.52:829][927]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-09.18.52:829][927]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-09.18.58:325][248]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2023.04.01-09.18.58:325][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.01-09.18.58:333][248]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2023.04.01-09.18.58:333][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.01-09.19.12:579][ 91]BlueprintLog: New page: Compile WBP_CreateSession
+[2023.04.01-09.19.12:583][ 91]LogBlueprint: Warning: [AssetLog] C:\Users\remie\Documents\UE5\Content\FirstPerson\Blueprints\WBP_CreateSession.uasset: [Compiler] On Clicked (FindSession)  does not have a valid matching component!
+[2023.04.01-09.19.12:583][ 91]LogBlueprint: Warning: [AssetLog] C:\Users\remie\Documents\UE5\Content\FirstPerson\Blueprints\WBP_CreateSession.uasset: [Compiler] Could not find a variable named "Search Result" in 'WBP_CreateSession_C'.
+Make sure 'WBP_CreateSession_C' has been compiled for  Get Search Result
+[2023.04.01-09.19.12:583][ 91]LogBlueprint: Warning: [AssetLog] C:\Users\remie\Documents\UE5\Content\FirstPerson\Blueprints\WBP_CreateSession.uasset: [Compiler] On Clicked (JoinSession)  does not have a valid matching component!
+[2023.04.01-09.19.12:584][ 91]LogBlueprint: Error: [AssetLog] C:\Users\remie\Documents\UE5\Content\FirstPerson\Blueprints\WBP_CreateSession.uasset: [Compiler] The property associated with  Search Result  could not be found in '/Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession_C'
+[2023.04.01-09.19.12:653][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.04.01-09.19.12:673][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.19.12:749][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.19.12:757][ 91]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.19.12:757][ 91]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSessionFC9AC50F40FB08D969261C8B97271E0E.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.19.12:765][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 9.23 sec)
+[2023.04.01-09.19.12:773][ 91]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.19.12:773][ 91]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.19.25:466][841]BlueprintLog: New page: Compile WBP_CreateSession
+[2023.04.01-09.19.25:531][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.04.01-09.19.25:549][841]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.19.25:622][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.19.25:629][841]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.19.25:630][841]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSessionC1037641415723AFA4213D864A5A8C53.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.19.25:636][841]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 9.31 sec)
+[2023.04.01-09.19.25:645][841]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.19.25:645][841]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.19.27:292][937]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-09.19.27:292][937]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-09.20.12:761][612]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.20.12:833][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.20.12:840][612]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.20.12:840][612]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSessionA6DD27134297D6AA7B42E2B9785481DF.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.20.12:849][612]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 9.40 sec)
+[2023.04.01-09.20.12:858][612]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.20.12:858][612]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.20.12:916][616]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.20.13:000][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.20.13:008][616]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.20.13:008][616]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSession4BAE778442F4E9967BA1649FCF7DF0E1.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.20.13:015][616]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 9.50 sec)
+[2023.04.01-09.20.13:024][616]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.20.13:024][616]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.20.22:148][162]BlueprintLog: New page: Compile WBP_CreateSession
+[2023.04.01-09.20.22:218][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.04.01-09.20.44:455][471]BlueprintLog: New page: Compile WBP_CreateSession
+[2023.04.01-09.20.44:515][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.04.01-09.20.44:536][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.20.44:614][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.20.44:622][471]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.20.44:622][471]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSessionE49E8ADC4D5B629493B80BA95847F16C.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.20.44:628][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 9.59 sec)
+[2023.04.01-09.20.44:639][471]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.20.44:639][471]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.20.49:304][745]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-09.20.49:304][745]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-09.21.00:533][385]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.21.00:616][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.21.00:625][385]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.21.00:626][385]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSession464229144FB8EAD4AF20F89B27449934.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.21.00:632][385]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 9.69 sec)
+[2023.04.01-09.21.00:642][385]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.21.00:642][385]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.21.00:748][392]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.21.00:838][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.21.00:845][392]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.21.00:846][392]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSessionA5EE1CE94D8ADBBE46A03B8644F1A7E5.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.21.00:853][392]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 9.80 sec)
+[2023.04.01-09.21.00:863][392]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.21.00:863][392]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.21.02:655][500]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.21.02:739][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.21.02:748][500]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.21.02:749][500]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSessionD30C585E47DCE968291E9D8BB8CAF332.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.21.02:755][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 9.90 sec)
+[2023.04.01-09.21.02:765][500]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.21.02:765][500]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.21.02:822][504]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.21.02:909][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.21.02:917][504]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.21.02:917][504]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSession9B0211034E6D7413845586B2D109574C.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.21.02:924][504]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 10.0 sec)
+[2023.04.01-09.21.02:934][504]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.21.02:934][504]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.21.03:008][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.21.03:084][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.21.03:092][509]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.21.03:093][509]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSession4BE18506496103A2180437B1A846650F.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.21.03:099][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 10.0 sec)
+[2023.04.01-09.21.03:109][509]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.21.03:109][509]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.21.07:195][750]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-09.21.07:195][750]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.01-09.21.13:575][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.21.13:671][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.21.13:679][111]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.21.13:680][111]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSession4CF05E2146550FBB5EE385B8BFE2A747.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.21.13:686][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 10.2 sec)
+[2023.04.01-09.21.13:696][111]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.21.13:696][111]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.21.13:769][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.21.13:853][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.21.13:862][116]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.21.13:862][116]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSession4B34AC05438EA394A4D0CF88E52EE547.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.21.13:869][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 10.3 sec)
+[2023.04.01-09.21.13:879][116]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.21.13:879][116]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.21.13:968][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.21.14:055][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.21.14:063][122]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.21.14:063][122]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSession8B090A8A467B4F681CA66A960CB1A737.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.21.14:071][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 10.4 sec)
+[2023.04.01-09.21.14:080][122]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.21.14:080][122]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.21.15:945][232]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.21.16:017][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.21.16:026][232]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.21.16:027][232]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSession5ED3B96F45E9CD95FF1C43A21BC5A09E.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.21.16:033][232]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 10.4 sec)
+[2023.04.01-09.21.16:044][232]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.21.16:044][232]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.21.16:100][236]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.21.16:182][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.21.16:191][236]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.21.16:192][236]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSessionB1817BC24A26FD23A0F7839615FF8EA9.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.21.16:199][236]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 10.5 sec)
+[2023.04.01-09.21.16:208][236]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.21.16:208][236]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.21.18:714][385]BlueprintLog: New page: Compile WBP_CreateSession
+[2023.04.01-09.21.18:719][385]LogBlueprint: Warning: [AssetLog] C:\Users\remie\Documents\UE5\Content\FirstPerson\Blueprints\WBP_CreateSession.uasset: [Compiler] Could not find a variable named "Search Result" in 'WBP_CreateSession_C'.
+Make sure 'WBP_CreateSession_C' has been compiled for  Get Search Result
+[2023.04.01-09.21.18:720][385]LogBlueprint: Error: [AssetLog] C:\Users\remie\Documents\UE5\Content\FirstPerson\Blueprints\WBP_CreateSession.uasset: [Compiler] The property associated with  Search Result  could not be found in '/Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession_C'
+[2023.04.01-09.21.18:801][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.04.01-09.21.22:872][621]BlueprintLog: New page: Compile WBP_CreateSession
+[2023.04.01-09.21.22:876][621]LogBlueprint: Error: [AssetLog] C:\Users\remie\Documents\UE5\Content\FirstPerson\Blueprints\WBP_CreateSession.uasset: [Compiler] The current value of the ' Search Result ' pin is invalid: 'Search Result' in action 'Join Session' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2023.04.01-09.21.22:932][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.04.01-09.21.22:951][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.21.23:029][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.21.23:037][621]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.21.23:038][621]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSession23A0C895428EC7725A9091B2E51E19EF.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.21.23:045][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 10.6 sec)
+[2023.04.01-09.21.23:055][621]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.21.23:055][621]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.21.24:342][697]LogEditorTransaction: Undo Delete current selection
+[2023.04.01-09.21.28:222][918]BlueprintLog: New page: Compile WBP_CreateSession
+[2023.04.01-09.21.28:226][918]LogBlueprint: Warning: [AssetLog] C:\Users\remie\Documents\UE5\Content\FirstPerson\Blueprints\WBP_CreateSession.uasset: [Compiler] Could not find a variable named "Search Result" in 'WBP_CreateSession_C'.
+Make sure 'WBP_CreateSession_C' has been compiled for  Get Search Result
+[2023.04.01-09.21.28:227][918]LogBlueprint: Error: [AssetLog] C:\Users\remie\Documents\UE5\Content\FirstPerson\Blueprints\WBP_CreateSession.uasset: [Compiler] The property associated with  Search Result  could not be found in '/Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession_C'
+[2023.04.01-09.21.28:287][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.04.01-09.21.28:306][918]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.21.28:398][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.21.28:407][918]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.21.28:408][918]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSession6BEE69D44585A0749DD0919407E82837.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.21.28:414][918]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 10.8 sec)
+[2023.04.01-09.21.28:424][918]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.21.28:424][918]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.22.29:034][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.04.01-09.22.29:040][348]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/MainMenu' took 0.078
+[2023.04.01-09.22.29:040][348]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/WBP_FindSession] ([2] browsable assets)...
+[2023.04.01-09.22.29:043][348]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_FindSession.WBP_FindSession]
+[2023.04.01-09.22.29:043][348]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/WBP_FindSession]
+[2023.04.01-09.22.29:047][348]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/WBP_FindSession_Auto4
+[2023.04.01-09.22.29:047][348]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_FindSession_Auto47396BBDF44AAF488269E3197AC9F03C6.tmp' to '../../../../../../Users/remie/Documents/UE5/Saved/Autosaves/Game/FirstPerson/Blueprints/WBP_FindSession_Auto4.uasset'
+[2023.04.01-09.22.29:048][348]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/WBP_JoinSession] ([2] browsable assets)...
+[2023.04.01-09.22.29:051][348]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_JoinSession.WBP_JoinSession]
+[2023.04.01-09.22.29:051][348]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/WBP_JoinSession]
+[2023.04.01-09.22.29:054][348]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/WBP_JoinSession_Auto4
+[2023.04.01-09.22.29:054][348]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_JoinSession_Auto4F403DBCB444C8F612B35E2BFAF7A9E73.tmp' to '../../../../../../Users/remie/Documents/UE5/Saved/Autosaves/Game/FirstPerson/Blueprints/WBP_JoinSession_Auto4.uasset'
+[2023.04.01-09.22.29:055][348]LogFileHelpers: Auto-saving content packages took 0.016
+[2023.04.01-09.23.14:943][723]BlueprintLog: New page: Compile WBP_CreateSession
+[2023.04.01-09.23.14:949][723]LogBlueprint: Error: [AssetLog] C:\Users\remie\Documents\UE5\Content\FirstPerson\Blueprints\WBP_CreateSession.uasset: [Compiler] The current value of the ' Search Result ' pin is invalid: 'Search Result' in action 'Join Session' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2023.04.01-09.23.15:027][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.04.01-09.23.15:049][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.23.15:142][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.23.15:150][723]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.23.15:151][723]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSession2DD23E5847AD49A9D981E68BC02A0A68.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.23.15:158][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 10.9 sec)
+[2023.04.01-09.23.15:165][723]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.23.15:165][723]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.23.57:603][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.23.57:677][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.23.57:686][128]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.23.57:687][128]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSession5A94D5E94606168F86DF3FB3A5258C03.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.23.57:694][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 10.9 sec)
+[2023.04.01-09.23.57:702][128]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.23.57:702][128]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.23.57:813][135]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.23.57:897][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.23.57:905][135]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.23.57:905][135]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSessionA07EC4584D3CA02351CA348E1A58F73B.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.23.57:912][135]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 11.0 sec)
+[2023.04.01-09.23.57:920][135]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.23.57:920][135]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.23.58:993][200]BlueprintLog: New page: Compile WBP_CreateSession
+[2023.04.01-09.23.58:998][200]LogBlueprint: Error: [AssetLog] C:\Users\remie\Documents\UE5\Content\FirstPerson\Blueprints\WBP_CreateSession.uasset: [Compiler] The current value of the ' Search Result ' pin is invalid: 'Search Result' in action 'Join Session' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2023.04.01-09.23.59:052][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.04.01-09.24.08:920][771]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.24.08:995][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.24.09:003][771]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.24.09:004][771]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSession082422FE476BF2C6724B2BB827403139.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.24.09:012][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 11.1 sec)
+[2023.04.01-09.24.09:019][771]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.24.09:019][771]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.24.09:105][775]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.24.09:179][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.24.09:187][775]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.24.09:187][775]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSession333E886645EE650D1D0E1D85D67D57E7.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.24.09:195][775]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 11.2 sec)
+[2023.04.01-09.24.09:204][775]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.24.09:204][775]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.24.15:066][112]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.24.15:152][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.24.15:160][112]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.24.15:160][112]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSession5C5FC8F7404042D52BC9AAAE85B4E9BD.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.24.15:167][112]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 11.3 sec)
+[2023.04.01-09.24.15:176][112]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.24.15:176][112]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.24.15:251][117]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.24.15:330][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.24.15:339][117]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.24.15:339][117]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSession9F36F2BF43F5A8362B2E5FB334069AF4.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.24.15:346][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 11.4 sec)
+[2023.04.01-09.24.15:352][117]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.24.15:352][117]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.24.51:233][481]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.24.51:308][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.24.51:317][481]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.24.51:317][481]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSession2DBD68324AACC811D95E52810FA56D9A.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.24.51:324][481]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 11.5 sec)
+[2023.04.01-09.24.51:332][481]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.24.51:332][481]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.24.51:457][489]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.24.51:545][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.24.51:553][489]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.24.51:553][489]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSession6EFA52D243BD196148F484BCD20EF010.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.24.51:561][489]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 11.6 sec)
+[2023.04.01-09.24.51:570][489]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.24.51:570][489]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
+[2023.04.01-09.24.51:717][498]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.01-09.24.51:804][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/WBP_CreateSession" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset" SILENT=true
+[2023.04.01-09.24.51:812][498]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_CreateSession
+[2023.04.01-09.24.51:813][498]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_CreateSession265BAEC745F0406C3156CEB4A00ADE9F.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/Blueprints/WBP_CreateSession.uasset'
+[2023.04.01-09.24.51:820][498]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 11.7 sec)
+[2023.04.01-09.24.51:826][498]AssetCheck: New page: Asset Save: WBP_CreateSession
+[2023.04.01-09.24.51:826][498]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_CreateSession.WBP_CreateSession
