@@ -4566,3 +4566,163 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2023.04.09-13.40.42:922][842]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
 [2023.04.09-13.40.45:029][969]BlueprintLog: New page: Compile BP_FirstPersonCharacter
 [2023.04.09-13.40.45:160][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.04.09-13.41.27:461][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.04.09-13.41.27:466][132]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/B6/ZDILHBZSK8920L4KYK2LDI_Auto8
+[2023.04.09-13.41.27:466][132]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/ZDILHBZSK8920L4KYK2LDI_Auto89CB579E24138ABC3CFBFDE85CA3CC457.tmp' to '../../../../../../Users/remie/Documents/UE5/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/B6/ZDILHBZSK8920L4KYK2LDI_Auto8.uasset'
+[2023.04.09-13.41.27:467][132]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.063
+[2023.04.09-13.41.27:467][132]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.063
+[2023.04.09-13.41.27:467][132]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/GameModes/GM_TargetGame] ([2] browsable assets)...
+[2023.04.09-13.41.27:467][132]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/GameModes/GM_TargetGame]
+[2023.04.09-13.41.27:480][132]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/GameModes/GM_TargetGame_Auto8
+[2023.04.09-13.41.27:480][132]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/GM_TargetGame_Auto866766CB942A49E65CCF394ADA4026EC1.tmp' to '../../../../../../Users/remie/Documents/UE5/Saved/Autosaves/Game/FirstPerson/GameModes/GM_TargetGame_Auto8.uasset'
+[2023.04.09-13.41.27:481][132]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/UI/WBP_UI] ([2] browsable assets)...
+[2023.04.09-13.41.27:485][132]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/UI/WBP_UI.WBP_UI]
+[2023.04.09-13.41.27:485][132]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/UI/WBP_UI]
+[2023.04.09-13.41.27:485][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/UI/WBP_UI" FILE="../../../../../../Users/remie/Documents/UE5/Saved/Autosaves/Game/FirstPerson/UI/WBP_UI_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2023.04.09-13.41.27:494][132]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/UI/WBP_UI_Auto8
+[2023.04.09-13.41.27:494][132]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_UI_Auto8D07603834AA8370D7B9CD68717706F3E.tmp' to '../../../../../../Users/remie/Documents/UE5/Saved/Autosaves/Game/FirstPerson/UI/WBP_UI_Auto8.uasset'
+[2023.04.09-13.41.27:496][132]LogFileHelpers: Auto-saving content packages took 0.029
+[2023.04.09-13.41.52:141][207]LogDerivedDataCache: C:/Users/remie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.158 and deleted 0 files with total size 0 MiB. Scanned 8473 files in 8126 folders with total size 175 MiB.
+[2023.04.09-13.44.45:581][ 71]BlueprintLog: New page: Compile GM_TargetGame
+[2023.04.09-13.44.45:693][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.04.09-13.44.45:743][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.09-13.44.45:810][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/GameModes/GM_TargetGame" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/GameModes/GM_TargetGame.uasset" SILENT=true
+[2023.04.09-13.44.45:823][ 71]LogSavePackage: Moving output files for package: /Game/FirstPerson/GameModes/GM_TargetGame
+[2023.04.09-13.44.45:824][ 71]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/GM_TargetGame5A00885E439D7789B40CDB82E70E111B.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/GameModes/GM_TargetGame.uasset'
+[2023.04.09-13.44.45:830][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 7.40 sec)
+[2023.04.09-13.44.45:840][ 71]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.04.09-13.44.45:840][ 71]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/GameModes/GM_TargetGame.GM_TargetGame
+[2023.04.09-13.44.47:948][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.04.09-13.44.49:010][191]LogSlate: Window 'Save Content' being destroyed
+[2023.04.09-13.44.49:019][191]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.09-13.44.49:109][191]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/B6/ZDILHBZSK8920L4KYK2LDI
+[2023.04.09-13.44.49:110][191]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/ZDILHBZSK8920L4KYK2LDIE840D9CD45420A827A8E17A57B4E6DF9.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/B6/ZDILHBZSK8920L4KYK2LDI.uasset'
+[2023.04.09-13.44.49:116][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/UI/WBP_UI" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/UI/WBP_UI.uasset" SILENT=true
+[2023.04.09-13.44.49:126][191]LogSavePackage: Moving output files for package: /Game/FirstPerson/UI/WBP_UI
+[2023.04.09-13.44.49:128][191]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/WBP_UI6AE2B3D64918D254F92DFC84683F1A39.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/UI/WBP_UI.uasset'
+[2023.04.09-13.44.49:137][191]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 7.52 sec)
+[2023.04.09-13.44.49:147][191]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.09-13.44.49:147][191]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/UI/WBP_UI.WBP_UI
+[2023.04.09-13.44.49:149][191]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_EnemyAI.BP_EnemyAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_EnemyAI_C_UAID_8045DD774B0B797701_2095583121
+[2023.04.09-13.45.23:060][768]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.09-13.45.23:060][768]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.09-13.46.32:564][575]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.09-13.46.32:651][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/GameModes/GM_TargetGame" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/GameModes/GM_TargetGame.uasset" SILENT=true
+[2023.04.09-13.46.32:665][575]LogSavePackage: Moving output files for package: /Game/FirstPerson/GameModes/GM_TargetGame
+[2023.04.09-13.46.32:665][575]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/GM_TargetGame860801AB480169DA710B8EBF73B36F8D.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/GameModes/GM_TargetGame.uasset'
+[2023.04.09-13.46.32:672][575]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 7.63 sec)
+[2023.04.09-13.46.32:682][575]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.04.09-13.46.32:682][575]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/GameModes/GM_TargetGame.GM_TargetGame
+[2023.04.09-13.46.32:823][584]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.09-13.46.32:910][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/GameModes/GM_TargetGame" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/GameModes/GM_TargetGame.uasset" SILENT=true
+[2023.04.09-13.46.32:925][584]LogSavePackage: Moving output files for package: /Game/FirstPerson/GameModes/GM_TargetGame
+[2023.04.09-13.46.32:925][584]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/GM_TargetGameAB4AD9364BD197AC1C577AB9B16C60F6.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/GameModes/GM_TargetGame.uasset'
+[2023.04.09-13.46.32:933][584]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 7.74 sec)
+[2023.04.09-13.46.32:942][584]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.04.09-13.46.32:942][584]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/GameModes/GM_TargetGame.GM_TargetGame
+[2023.04.09-13.47.30:363][996]BlueprintLog: New page: Compile GM_TargetGame
+[2023.04.09-13.47.30:465][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.04.09-13.47.30:519][996]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.09-13.47.30:607][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/GameModes/GM_TargetGame" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/GameModes/GM_TargetGame.uasset" SILENT=true
+[2023.04.09-13.47.30:621][996]LogSavePackage: Moving output files for package: /Game/FirstPerson/GameModes/GM_TargetGame
+[2023.04.09-13.47.30:622][996]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/GM_TargetGame979FAB824A42F5E24FEBF39819F0046C.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/GameModes/GM_TargetGame.uasset'
+[2023.04.09-13.47.30:629][996]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 7.85 sec)
+[2023.04.09-13.47.30:639][996]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.04.09-13.47.30:639][996]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/GameModes/GM_TargetGame.GM_TargetGame
+[2023.04.09-13.47.35:741][298]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.04.09-13.47.35:747][298]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.04.09-13.47.35:749][298]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.09-13.47.35:749][298]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.09-13.47.35:749][298]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 205 us)
+[2023.04.09-13.47.35:749][298]LogWorldPartition: Display: GenerateStreaming took 263 us (total: 8 ms)
+[2023.04.09-13.47.35:749][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.09-13.47.35:749][298]PIE: New page: PIE session: FirstPersonMap (9 Apr 2023, 19:47:35)
+[2023.04.09-13.47.35:749][298]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.04.09-13.47.35:756][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005878s)
+[2023.04.09-13.47.35:756][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005908s)
+[2023.04.09-13.47.35:756][298]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.09-13.47.35:756][298]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.04.09-13.47.35:757][298]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.04.09-13.47.35:757][298]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.09-13.47.35:757][298]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.04.09-13.47.35:758][298]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.04.09-13.47.35:758][298]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 998 ms)
+[2023.04.09-13.47.35:758][298]LogPlayLevel: PIE: World Init took: (0.002155s)
+[2023.04.09-13.47.35:811][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.04.09-13.47.35:815][298]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.04.09-13.47.35:815][298]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.09-13.47.35:815][298]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.09-13.47.35:815][298]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.09-13.47.35:815][298]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.09-13.47.35:815][298]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.09-13.47.35:815][298]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.09-13.47.35:815][298]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.09-13.47.35:815][298]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.09-13.47.35:815][298]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.09-13.47.35:815][298]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.09-13.47.35:815][298]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.09-13.47.35:818][298]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.09-13.47.35:840][298]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio Codec with THX Spatial Audio)
+[2023.04.09-13.47.35:840][298]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.09-13.47.35:840][298]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.09-13.47.35:840][298]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.09-13.47.35:841][298]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2023.04.09-13.47.35:841][298]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2023.04.09-13.47.35:843][298]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2023.04.09-13.47.35:843][298]LogInit: FAudioDevice initialized.
+[2023.04.09-13.47.35:843][298]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2023.04.09-13.47.35:843][298]LogAudio: Display: Audio Device (ID: 30) registered with world 'FirstPersonMap'.
+[2023.04.09-13.47.35:886][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.09-13.47.35:886][298]LogLoad: Game class is 'GM_TargetGame_C'
+[2023.04.09-13.47.35:893][298]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2023.04.09-16.47.35
+[2023.04.09-13.47.35:893][298]LogWorld: Bringing up level for play took: 0.006805
+[2023.04.09-13.47.35:897][298]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2023.04.09-13.47.35:899][298]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1270.000 Y=660.000 Z=98.338
+[2023.04.09-13.47.35:899][298]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.04.09-13.47.35:899][298]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.04.09-13.47.35:899][298]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.04.09-13.47.35:899][298]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2023.04.09-13.47.35:899][298]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.04.09-13.47.35:899][298]LogNet: GameNetDriver IpNetDriver_28 IpNetDriver listening on port 17777
+[2023.04.09-13.47.35:899][298]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.09-13.47.35:904][298]PIE: Server logged in
+[2023.04.09-13.47.35:906][298]PIE: Play in editor total start time 0,159 seconds.
+[2023.04.09-13.47.35:920][298]LogViewport: Scene viewport resized to 855x949, mode Windowed.
+[2023.04.09-13.47.53:187][330]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.04.09-13.47.53:187][330]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.09-13.47.53:187][330]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.04.09-13.47.53:553][352]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.04.09-13.47.54:554][412]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.04.09-13.47.54:771][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.09-13.47.54:771][422]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.04.09-13.47.54:772][422]LogSlate: Window 'ElectiveY2 Preview [NetMode: Server 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.04.09-13.47.54:778][422]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.09-13.47.54:779][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-13.47.54:779][422]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.04.09-13.47.54:782][422]LogNet: World NetDriver shutdown IpNetDriver_28 [GameNetDriver]
+[2023.04.09-13.47.54:782][422]LogNet: DestroyNamedNetDriver IpNetDriver_28 [GameNetDriver]
+[2023.04.09-13.47.54:782][422]LogExit: GameNetDriver IpNetDriver_28 shut down
+[2023.04.09-13.47.54:784][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.09-13.47.54:794][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-13.47.54:851][422]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.09-13.47.54:852][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.04.09-13.47.54:853][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.04.09-13.47.54:861][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.04.09-13.47.54:883][423]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2023.04.09-13.48.20:699][923]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.09-13.48.21:583][976]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.09-13.48.21:668][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/GameModes/GM_TargetGame" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/GameModes/GM_TargetGame.uasset" SILENT=true
+[2023.04.09-13.48.21:683][976]LogSavePackage: Moving output files for package: /Game/FirstPerson/GameModes/GM_TargetGame
+[2023.04.09-13.48.21:683][976]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/GM_TargetGame945E6CE5463C6DCD0561458B6D806973.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/GameModes/GM_TargetGame.uasset'
+[2023.04.09-13.48.21:691][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 7.96 sec)
+[2023.04.09-13.48.21:701][976]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.04.09-13.48.21:701][976]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/GameModes/GM_TargetGame.GM_TargetGame
+[2023.04.09-13.48.22:278][  9]BlueprintLog: New page: Compile GM_TargetGame
+[2023.04.09-13.48.22:363][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.04.09-13.48.23:786][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.09-13.48.23:855][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/GameModes/GM_TargetGame" FILE="../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/GameModes/GM_TargetGame.uasset" SILENT=true
+[2023.04.09-13.48.23:869][ 88]LogSavePackage: Moving output files for package: /Game/FirstPerson/GameModes/GM_TargetGame
+[2023.04.09-13.48.23:869][ 88]LogSavePackage: Moving '../../../../../../Users/remie/Documents/UE5/Saved/GM_TargetGame04175EF94E7E81E866A48686913AE102.tmp' to '../../../../../../Users/remie/Documents/UE5/Content/FirstPerson/GameModes/GM_TargetGame.uasset'
+[2023.04.09-13.48.23:876][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 8.05 sec)
+[2023.04.09-13.48.23:886][ 88]AssetCheck: New page: Asset Save: GM_TargetGame
+[2023.04.09-13.48.23:886][ 88]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/GameModes/GM_TargetGame.GM_TargetGame
